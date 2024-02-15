@@ -19,21 +19,19 @@ Here is my latest CV.
 Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 🔥 News
-- **2024.02**: Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by **Operations Research**!
+- **2024.02**: Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by ***Operations Research***!
   + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
 - **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I successfully early graduate for half a year. 
 - **2023.12**: I successfully pass my Ph.D. thesis defense!
   + I am also happy to be the first student to defend my thesis in Zhihua Building, the new building of School of Mathematical Sciences, Peking University. 
-- **2023.11**: Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by **Insurance: Mathematics and Economics**!
+- **2023.11**: Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by ***Insurance: Mathematics and Economics***!
 
 # 📝 Publications (Including Preprints)
 
 ### Factor Investing
 
 - **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**
-  
   Chaoyi Zhao and Lan Wu.
-  
   Working Paper. 
 
 
