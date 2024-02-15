@@ -156,8 +156,11 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **Ph.D. Candidate in Statistics**, School of Mathematical Sciences, Peking University, Sep 2019 - Jan 2024
+  + Main advisor: Prof. [http://english.math.pku.edu.cn/peoplefaculty/14.html Lan Wu] 
+  + Secondary advisor: Prof. [https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html Ruixun Zhang]
+  + Early graduation for half a year
+- **B.S. in Mathematics and Applied Mathematics**, School of Mathematical Sciences, Peking University, Sep 2015 - Jul 2019
+  +  [https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm Elite Undergraduate Program of Applied Mathematics], Sep 2017 - Jul 2019
+- **B.S. (Double Degree) in Computer Science and Technology**, School of Electronics Engineering and Computer Science, Peking University, Sep 2016 - Jul 2019
