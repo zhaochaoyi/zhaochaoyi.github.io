@@ -1,8 +1,8 @@
 ---
 permalink: /course/
 title: ""
-excerpt: ""
-author_profile: false
+layout: archive
+author_profile: true
 redirect_from: ""
 ---
 
