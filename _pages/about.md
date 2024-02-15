@@ -95,9 +95,27 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   电子工业出版社 (Publishing House of Electronics Industry), 2021. [https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565 Link].
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors
+
+### Awards
+- **2022**: [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award]
+- **2022**: Second place in the Best Paper Prize for Young Scholars, Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) 
+- **2023, 2022, 2021, 2020, 2016**: Merit Student
+- **2019**: Excellent Graduate of Elite Undergraduate Program of Applied Mathematics
+- **2019**: Peking University Excellent Graduate, Beijing Outstanding Graduate
+- **2018**: The Student of The Year (10 students per year)
+- **2018**: Merit Student Pacesetter
+- **2018**: Beijing Merit Student
+- **2017**: Excellent Student Leader
+### Scholarships
+- **2023, 2018**: National Scholarship
+- **2022, 2021, 2020, 2019**: President Scholarship
+- **2022**: Leo KoGuan Scholarship
+- **2021**: Huatai Science and Technology Scholarship
+- **2020**: CETC the 14th Research Institute Glarun Scholarship
+- **2018**: The National Southwest Associated University Scholarship
+- **2017**: Shenzhen Finance Institute Scholarship, the Chinese University of Hong Kong, Shenzhen
+- **2016**: Founder Scholarship \hfill 2016
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
