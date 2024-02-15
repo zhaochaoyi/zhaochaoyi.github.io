@@ -1,9 +1,8 @@
 ---
 permalink: /course/
-title: ""
+title: "course"
 layout: archive
 author_profile: true
-redirect_from: ""
 ---
 
 Try course ....
