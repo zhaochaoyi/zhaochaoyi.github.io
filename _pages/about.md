@@ -8,39 +8,93 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an incoming Postdoctoral Associate at MIT Sloan School of Management, under the supervision of Professor Andrew W. Lo. I obtained my Ph.D. degree in Statistics from Peking University in January 2024, advised by Professor Lan Wu and Professor Ruixun Zhang. I received my BS in Mathematics and Applied Mathematics and BS in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the Society of Actuaries in 2023. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the S&P Global Academic ESG Research Award (2022) and the Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023). 
 
+Here is my latest CV. 
+
+Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by **Operations Research**!
+  + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
+- *2024.01*: I received my Ph.D. degree in Statistics from Peking University! I successfully early graduated for half a year. 
+- *2023.12*: I successfully passed my Ph.D. thesis defense!
+  + I am also happy to be the first student to defend the thesis in Zhihua Building, the new building of School of Mathematical Science, Peking University. 
+- *2023.11*: Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by **Insurance: Mathematics and Economics**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+=== */Factor Investing/*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- *Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso* \n 
+  Chaoyi Zhao and Lan Wu. \n 
+  Working Paper. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+=== */High-frequency Investing\/Trading/*
+
+- *High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants* \n 
+  Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu. \n 
+  Under review. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675 SSRN].
+
+- *Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market* \n 
+  Siyu Liu, Chaoyi Zhao, and Lan Wu. \n 
+  /International Journal of Financial Engineering/, 9(04), 2250033, 2022. [https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335 Journal].
+
+
+=== */Sustainable Investing*/
+
+- *Optimal Impact Portfolios with General Dependence and Marginals* \n 
+  Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao. \n 
+  Under review. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277 SSRN].
+
+- *Measuring and Optimizing the Risk and Reward of Green Portfolios* \n 
+  Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao. \n 
+  /The Journal of Impact and ESG Investing/, 3(2), 55-93, 2022.  [./publication/2022_JESG_Carbon.pdf PDF]. [https://jesg.pm-research.com/content/early/2022/11/05/jesg.2022.1.062 Journal]. \n
+  Winner of the [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award].   \n 
+  Reported by [https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm Center for Statistical Science] and [https://www.math.pku.edu.cn/xyxw/145612.htm School of Mathematical Sciences], Peking University.
+
+=== */Machine\/Deep Learning and Its Application in Finance/*
+
+- *On Consistency of Signatures Using Lasso* \n
+  Xin Guo, Ruixun Zhang, and Chaoyi Zhao. \n 
+  Under review. [https://arxiv.org/abs/2305.10413 arXiv].
+
+- *Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets* \n 
+  Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin. \n 
+  /The European Journal of Finance/, forthcoming. [https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567 Journal].
+
+- *The Success of AdaBoost and its Application in Portfolio Management* \n 
+  Yijian Chuan, Chaoyi Zhao, Zhenrui He, and Lan Wu. \n 
+  /International Journal of Financial Engineering/, 8(02), 2142001, 2021. [https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019 Journal]. 
+
+
+=== */Actuarial Sciences/*
+
+- *Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates* \n 
+  Chaoyi Zhao, Zijian Jia, and Lan Wu. \n 
+  /Insurance: Mathematics and Economics/, 114: 156--175, 2024. [https://doi.org/10.1016/j.insmatheco.2023.11.003 Journal]. 
+
+
+=== */Books/*
+
+- *量化投资 (Quantitative Investing)*, in Chinese \n 
+  Jian Sun, Lan Wu, and Chaoyi Zhao. \n 
+  科学出版社 (Science Press), 2023. [https://www.ecsponline.com/goods.php?id=221941 Link].
+
+- *金融市场风险管理分析 (Financial Market Risk Management Analytics)*, in Chinese \n 
+  Frank Hugh Koger. Translated by Chaoyi Zhao. \n 
+  格致出版社 (Truth & Wisdom Press), 2022. [https://product.dangdang.com/29435368.html Link].
+
+- *数学百科 (The Maths Book)*, in Chinese \n 
+  Dorling Kindersley Ltd. Translated by Chaoyi Zhao. \n 
+  电子工业出版社 (Publishing House of Electronics Industry), 2021. [https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565 Link].
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
