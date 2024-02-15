@@ -30,70 +30,68 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 ### Factor Investing
 
-- **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**
-  Chaoyi Zhao and Lan Wu.
+- **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**  
+  Chaoyi Zhao and Lan Wu.  
   Working Paper. 
 
 
 ### High-frequency Investing/Trading
 
-- **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**
- 
-  Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu.
-  
+- **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
+  Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu.  
   Under review. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675 SSRN].
 
-- *Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market* \n 
-  Siyu Liu, Chaoyi Zhao, and Lan Wu. \n 
-  /International Journal of Financial Engineering/, 9(04), 2250033, 2022. [https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335 Journal].
+- **Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market**  
+  Siyu Liu, Chaoyi Zhao, and Lan Wu.  
+  *International Journal of Financial Engineering*, 9(04), 2250033, 2022. [https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335 Journal].
 
 
 ### Sustainable Investing
 
-- *Optimal Impact Portfolios with General Dependence and Marginals* \n 
-  Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao. \n 
-  Under review. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277 SSRN].
+- **Optimal Impact Portfolios with General Dependence and Marginals**  
+  Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
+  *Operations Research*, forthcoming. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277 SSRN].
 
-- *Measuring and Optimizing the Risk and Reward of Green Portfolios* \n 
-  Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao. \n 
-  /The Journal of Impact and ESG Investing/, 3(2), 55-93, 2022.  [./publication/2022_JESG_Carbon.pdf PDF]. [https://jesg.pm-research.com/content/early/2022/11/05/jesg.2022.1.062 Journal]. \n
-  Winner of the [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award].   \n 
+- **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
+  Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
+  *The Journal of Impact and ESG Investing*, 3(2), 55-93, 2022.  [./publication/2022_JESG_Carbon.pdf PDF]. [https://jesg.pm-research.com/content/early/2022/11/05/jesg.2022.1.062 Journal].  
+  Winner of the [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award].  
   Reported by [https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm Center for Statistical Science] and [https://www.math.pku.edu.cn/xyxw/145612.htm School of Mathematical Sciences], Peking University.
 
 ### Machine/Deep Learning and Its Application in Finance
 
-- *On Consistency of Signatures Using Lasso* \n
-  Xin Guo, Ruixun Zhang, and Chaoyi Zhao. \n 
+- **On Consistency of Signatures Using Lasso**  
+  Xin Guo, Ruixun Zhang, and Chaoyi Zhao.  
   Under review. [https://arxiv.org/abs/2305.10413 arXiv].
 
-- *Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets* \n 
-  Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin. \n 
-  /The European Journal of Finance/, forthcoming. [https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567 Journal].
+- **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
+  Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin.  
+  *The European Journal of Finance*, forthcoming. [https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567 Journal].
 
-- *The Success of AdaBoost and its Application in Portfolio Management* \n 
-  Yijian Chuan, Chaoyi Zhao, Zhenrui He, and Lan Wu. \n 
-  /International Journal of Financial Engineering/, 8(02), 2142001, 2021. [https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019 Journal]. 
+- **The Success of AdaBoost and its Application in Portfolio Management**  
+  Yijian Chuan, Chaoyi Zhao, Zhenrui He, and Lan Wu.  
+  *International Journal of Financial Engineering*, 8(02), 2142001, 2021. [https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019 Journal]. 
 
 
 ### Actuarial Sciences
 
-- *Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates* \n 
-  Chaoyi Zhao, Zijian Jia, and Lan Wu. \n 
-  /Insurance: Mathematics and Economics/, 114: 156--175, 2024. [https://doi.org/10.1016/j.insmatheco.2023.11.003 Journal]. 
+- **Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates**  
+  Chaoyi Zhao, Zijian Jia, and Lan Wu.  
+  *Insurance: Mathematics and Economics*, 114: 156--175, 2024. [https://doi.org/10.1016/j.insmatheco.2023.11.003 Journal]. 
 
 
 ### Books
 
-- *量化投资 (Quantitative Investing)*, in Chinese \n 
-  Jian Sun, Lan Wu, and Chaoyi Zhao. \n 
+- **量化投资 (Quantitative Investing)**, in Chinese  
+  Jian Sun, Lan Wu, and Chaoyi Zhao.  
   科学出版社 (Science Press), 2023. [https://www.ecsponline.com/goods.php?id=221941 Link].
 
-- *金融市场风险管理分析 (Financial Market Risk Management Analytics)*, in Chinese \n 
-  Frank Hugh Koger. Translated by Chaoyi Zhao. \n 
+- **金融市场风险管理分析 (Financial Market Risk Management Analytics)**, in Chinese  
+  Frank Hugh Koger. Translated by Chaoyi Zhao.  
   格致出版社 (Truth & Wisdom Press), 2022. [https://product.dangdang.com/29435368.html Link].
 
-- *数学百科 (The Maths Book)*, in Chinese \n 
-  Dorling Kindersley Ltd. Translated by Chaoyi Zhao. \n 
+- **数学百科 (The Maths Book)**, in Chinese  
+  Dorling Kindersley Ltd. Translated by Chaoyi Zhao.  
   电子工业出版社 (Publishing House of Electronics Industry), 2021. [https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565 Link].
 
 
