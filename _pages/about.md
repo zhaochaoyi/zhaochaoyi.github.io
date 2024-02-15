@@ -19,27 +19,30 @@ Here is my latest CV.
 Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 🔥 News
-- *2024.02*: Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by **Operations Research**!
+- **2024.02**: Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by **Operations Research**!
   + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
-- *2024.01*: I received my Ph.D. degree in Statistics from Peking University! I successfully early graduated for half a year. 
-- *2023.12*: I successfully passed my Ph.D. thesis defense!
-  + I am also happy to be the first student to defend my thesis in Zhihua Building, the new building of School of Mathematical Science, Peking University. 
-- *2023.11*: Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by **Insurance: Mathematics and Economics**!
+- **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I successfully early graduate for half a year. 
+- **2023.12**: I successfully pass my Ph.D. thesis defense!
+  + I am also happy to be the first student to defend my thesis in Zhihua Building, the new building of School of Mathematical Sciences, Peking University. 
+- **2023.11**: Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by **Insurance: Mathematics and Economics**!
 
-# 📝 Publications 
+# 📝 Publications (Including Preprints)
 
+### Factor Investing
 
-=== */Factor Investing/*
-
-- *Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso* \n 
-  Chaoyi Zhao and Lan Wu. \n 
+- **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**
+  
+  Chaoyi Zhao and Lan Wu.
+  
   Working Paper. 
 
 
-=== */High-frequency Investing\/Trading/*
+### High-frequency Investing/Trading
 
-- *High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants* \n 
-  Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu. \n 
+- **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**
+ 
+  Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu.
+  
   Under review. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675 SSRN].
 
 - *Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market* \n 
@@ -47,7 +50,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   /International Journal of Financial Engineering/, 9(04), 2250033, 2022. [https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335 Journal].
 
 
-=== */Sustainable Investing*/
+### Sustainable Investing
 
 - *Optimal Impact Portfolios with General Dependence and Marginals* \n 
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao. \n 
@@ -59,7 +62,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   Winner of the [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award].   \n 
   Reported by [https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm Center for Statistical Science] and [https://www.math.pku.edu.cn/xyxw/145612.htm School of Mathematical Sciences], Peking University.
 
-=== */Machine\/Deep Learning and Its Application in Finance/*
+### Machine/Deep Learning and Its Application in Finance
 
 - *On Consistency of Signatures Using Lasso* \n
   Xin Guo, Ruixun Zhang, and Chaoyi Zhao. \n 
@@ -74,14 +77,14 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   /International Journal of Financial Engineering/, 8(02), 2142001, 2021. [https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019 Journal]. 
 
 
-=== */Actuarial Sciences/*
+### Actuarial Sciences
 
 - *Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates* \n 
   Chaoyi Zhao, Zijian Jia, and Lan Wu. \n 
   /Insurance: Mathematics and Economics/, 114: 156--175, 2024. [https://doi.org/10.1016/j.insmatheco.2023.11.003 Journal]. 
 
 
-=== */Books/*
+### Books
 
 - *量化投资 (Quantitative Investing)*, in Chinese \n 
   Jian Sun, Lan Wu, and Chaoyi Zhao. \n 
