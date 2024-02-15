@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /course
 title: ""
 excerpt: ""
 author_profile: false
