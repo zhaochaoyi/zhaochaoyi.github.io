@@ -28,14 +28,14 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 📝 Publications (Including Preprints)
 
-### Factor Investing
+## Factor Investing
 
 - **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**  
   Chaoyi Zhao and Lan Wu.  
   Working Paper. 
 
 
-### High-frequency Investing/Trading
+## High-frequency Investing/Trading
 
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
   Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu.  
@@ -46,7 +46,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   *International Journal of Financial Engineering*, 9(04), 2250033, 2022. [https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335 Journal].
 
 
-### Sustainable Investing
+## Sustainable Investing
 
 - **Optimal Impact Portfolios with General Dependence and Marginals**  
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
@@ -58,7 +58,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   Winner of the [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award].  
   Reported by [https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm Center for Statistical Science] and [https://www.math.pku.edu.cn/xyxw/145612.htm School of Mathematical Sciences], Peking University.
 
-### Machine/Deep Learning and Its Application in Finance
+## Machine/Deep Learning and Its Application in Finance
 
 - **On Consistency of Signatures Using Lasso**  
   Xin Guo, Ruixun Zhang, and Chaoyi Zhao.  
@@ -73,14 +73,14 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   *International Journal of Financial Engineering*, 8(02), 2142001, 2021. [https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019 Journal]. 
 
 
-### Actuarial Sciences
+## Actuarial Sciences
 
 - **Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates**  
   Chaoyi Zhao, Zijian Jia, and Lan Wu.  
   *Insurance: Mathematics and Economics*, 114: 156--175, 2024. [https://doi.org/10.1016/j.insmatheco.2023.11.003 Journal]. 
 
 
-### Books
+## Books
 
 - **量化投资 (Quantitative Investing)**, in Chinese  
   Jian Sun, Lan Wu, and Chaoyi Zhao.  
@@ -97,7 +97,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 🎖 Honors
 
-### Awards
+## Awards
 - **2022**: [https://www.pm-research.com/SPGlobal-ESGAward S&P Global Academic ESG Research Award]
 - **2022**: Second place in the Best Paper Prize for Young Scholars, Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) 
 - **2023, 2022, 2021, 2020, 2016**: Merit Student
@@ -107,7 +107,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 - **2018**: Merit Student Pacesetter
 - **2018**: Beijing Merit Student
 - **2017**: Excellent Student Leader
-### Scholarships
+## Scholarships
 - **2023, 2018**: National Scholarship
 - **2022, 2021, 2020, 2019**: President Scholarship
 - **2022**: Leo KoGuan Scholarship
