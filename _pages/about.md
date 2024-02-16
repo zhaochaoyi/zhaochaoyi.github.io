@@ -50,7 +50,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 </table>
 
 - **2023.11: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by** ***<font color="#AC2C1D">Insurance: Mathematics and Economics</font>*****!**
-  + This paper can be found on the homepage of the [journal](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
+  + This paper can be found [here](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
   + We propose several methods for obtaining endogenous and positive ultimate forward rates for risk-free interest rate curves based on the Smith-Wilson method. 
 
 # 📝 Publications (Including Preprints)
@@ -162,12 +162,12 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 # 🎖 Honors
 
 ## Awards
-- **2024, 2019**: Beijing Outstanding Graduate, Peking University Excellent Graduate
+- **2024, 2019**: [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html), Peking University Excellent Graduate
 - **2023, 2022, 2021, 2020, 2016**: Merit Student (Peking University)
 - **2022**: [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward)
-- **2022**: Second place in the Best Paper Prize for Young Scholars, Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) 
+- **2022**: [Second place in the Best Paper Prize for Young Scholars, Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) 
 - **2019**: Excellent Graduate of Elite Undergraduate Program of Applied Mathematics (Peking University)
-- **2018**: The Student of The Year (10 students per year, Peking University)
+- **2018**: [The Student of The Year](https://news.pku.edu.cn/xwzh/0e0f09b30bff403184cf57b5820eb549.htm) (10 students per year, Peking University)
 - **2018**: Merit Student Pacesetter (Peking University)
 - **2018**: Beijing Merit Student
 - **2017**: Excellent Student Leader (Peking University)
@@ -227,8 +227,8 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
 ## Affiliation
 - (Expected) **2024 - Present: Postdoctoral Associate**, Sloan School of Management, Massachusetts Institute of Technology
   + Advisor: Prof. [Andrew W. Lo](https://alo.mit.edu/)
-- **2023 - Present: Associate**, Society of Actuaries
-  + My [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
+- **2023 - Present: Associate**, Society of Actuaries (ASA, SOA)
+  + My SOA [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
   
 ## Education
 - **Sep 2019 - Jan 2024: Ph.D. in Statistics**, School of Mathematical Sciences, Peking University
