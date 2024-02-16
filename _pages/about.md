@@ -14,7 +14,7 @@ I am an incoming Postdoctoral Associate at [MIT Sloan School of Management](http
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward) (2022) and the Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023). 
 
-Key research topics:
+My key research topics are:
 - **Investments**
   + Factor investing
   + High-frequency investing/trading
@@ -28,7 +28,7 @@ Here is my latest CV.
 
 Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
-I am very happy to work with motivated students. <font color="#AC2C1D">Don't hesitate to drop me an email if you are interested in cooperating with me!</font> 😆
+I am very happy to work with motivated students. **<font color="#AC2C1D">Don't hesitate to drop me an email if you are interested in cooperating with me!</font>** 😆
 
 
 # 🔥 News
@@ -244,13 +244,13 @@ A full version of my latest CV can be found here.
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2024.01</div><img src='images/swim_record.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-I reach the goal of swimming 10,000 meters! It took me about four hours. This challenge includes 5,000 meters of breaststroke and 5,000 meters of freestyle. 
+I reach the goal of swimming 10,000 meters in one go! It took me about four hours. This challenge includes 5,000 meters of breaststroke and 5,000 meters of freestyle. 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.10</div><img src='images/swim.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Swimming (butterfly stroke) in Kunming, Yunnan in October 2023. 
+Swim (butterfly stroke) in Kunming, Yunnan in October 2023. 
 </div>
 </div>
 
