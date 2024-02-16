@@ -24,7 +24,7 @@ My key research topics are:
   + Machine learning & deep learning
 - **Actuarial Sciences**
 
-Here is my latest CV. 
+Here is my latest [CV](./docs/CYZhao_CV.pdf). 
 
 Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
@@ -220,7 +220,7 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 
 # 📜 CV
 
-A full version of my latest CV can be found here. 
+A full version of my latest CV can be found [here](./docs/CYZhao_CV.pdf). 
 
 ## Affiliation
 - **2024 - Present: Postdoctoral Associate**, Sloan School of Management, MIT
