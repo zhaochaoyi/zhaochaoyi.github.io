@@ -124,11 +124,9 @@ I served as a teaching assistant for the following courses at Peking University:
 
 - **Fall 2022: Quantitative Trading (量化交易)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚)
-  [Syllabus](./course/2022_量化交易-syllabus.pdf). 
 
 - **Fall 2022: Practice for Fixed Income Securities (固定收益证券实务)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
-  [Syllabus](./course/固定收益证券实务课程介绍-2022.pdf). 
 
 - **Spring 2022: Theory and Practice for Futures and Other Derivatives (期货衍生品理论与实务)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
@@ -160,25 +158,25 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 # 🎖 Honors
 
 ## Awards
+- **2024, 2019**: Beijing Outstanding Graduate, Peking University Excellent Graduate
+- **2023, 2022, 2021, 2020, 2016**: Merit Student (Peking University)
 - **2022**: [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward)
 - **2022**: Second place in the Best Paper Prize for Young Scholars, Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) 
-- **2023, 2022, 2021, 2020, 2016**: Merit Student
-- **2019**: Excellent Graduate of Elite Undergraduate Program of Applied Mathematics
-- **2019**: Peking University Excellent Graduate, Beijing Outstanding Graduate
-- **2018**: The Student of The Year (10 students per year)
-- **2018**: Merit Student Pacesetter
+- **2019**: Excellent Graduate of Elite Undergraduate Program of Applied Mathematics (Peking University)
+- **2018**: The Student of The Year (10 students per year, Peking University)
+- **2018**: Merit Student Pacesetter (Peking University)
 - **2018**: Beijing Merit Student
-- **2017**: Excellent Student Leader
+- **2017**: Excellent Student Leader (Peking University)
 
 ## Scholarships
 - **2023, 2018**: National Scholarship
-- **2022, 2021, 2020, 2019**: President Scholarship
-- **2022**: Leo KoGuan Scholarship
-- **2021**: Huatai Science and Technology Scholarship
-- **2020**: CETC the 14th Research Institute Glarun Scholarship
-- **2018**: The National Southwest Associated University Scholarship
-- **2017**: Shenzhen Finance Institute Scholarship, the Chinese University of Hong Kong, Shenzhen
-- **2016**: Founder Scholarship
+- **2022, 2021, 2020, 2019**: President Scholarship (Peking University)
+- **2022**: Leo KoGuan Scholarship (Peking University)
+- **2021**: Huatai Science and Technology Scholarship (Peking University)
+- **2020**: CETC the 14th Research Institute Glarun Scholarship (Peking University)
+- **2018**: The National Southwest Associated University Scholarship (Peking University)
+- **2017**: Shenzhen Finance Institute Scholarship (the Chinese University of Hong Kong, Shenzhen)
+- **2016**: Founder Scholarship (Peking University)
 
 # 💬 Talks
 - **On Consistency of Signatures Using Lasso**
@@ -223,7 +221,7 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf). 
 
 ## Affiliation
-- **2024 - Present: Postdoctoral Associate**, Sloan School of Management, MIT
+- **2024 - Present: Postdoctoral Associate**, Sloan School of Management, Massachusetts Institute of Technology
   + Advisor: Prof. [Andrew W. Lo](https://alo.mit.edu/)
 - **2023 - Present: Associate**, Society of Actuaries
   + My [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
