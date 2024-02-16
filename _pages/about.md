@@ -19,7 +19,7 @@ Here is my latest CV.
 Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 🔥 News
-- **2024.02**: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by <font color="#AC2C1D">***Operations Research***</font>!
+- **2024.02**: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by ***<font color="#AC2C1D">Operations Research</font>***!
   + This paper is currently on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277). 
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
   + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
