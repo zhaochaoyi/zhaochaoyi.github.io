@@ -242,7 +242,7 @@ A full version of my latest CV can be found here.
 
 ## 🏊‍♂️ Swimming
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/swim_record.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2024.01</div><img src='images/swim_record.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 I reach the goal of swimming 10,000 meters! It took me about four hours. This challenge includes 5,000 meters of breaststroke and 5,000 meters of freestyle. 
 </div>
