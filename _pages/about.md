@@ -12,7 +12,7 @@ redirect_from:
 
 I am an incoming Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
 
-My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward) (2022) and the Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023). 
+My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
 My key research topics are:
 - **Investments**
@@ -77,7 +77,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 - **Optimal Impact Portfolios with General Dependence and Marginals**  
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
   *Operations Research*, forthcoming. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277).
-  + Second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023. 
+  + Second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
 
 - **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
