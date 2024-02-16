@@ -242,4 +242,20 @@ A full version of my latest CV can be found here.
 
 ## 🏊‍♂️ Swimming
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.01</div><img src='images/swim_record.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+I reach the goal of swimming 10,000 meters! It took me about four hours. This challenge includes 5,000 meters of breaststroke and 5,000 meters of freestyle. 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.10</div><img src='images/swim.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Swimming (butterfly stroke) in Kunming, Yunnan in October 2023. 
+</div>
+</div>
+
+## 📷 Bilibili Content Creator
+
+My [Bilibili](https://www.bilibili.com/) account username is [猪肘子dr赵](https://space.bilibili.com/381529817/), and I produce content related to mathematics and finance. As of now, my account boasts over 3,000 followers. 
+
+Currently, I am actively uploading a series of videos on financial mathematics (in Chinese), available [here](https://www.bilibili.com/video/BV1Du4m1P7xb/). Feel free to join me on this learning journey by following my channel! 欢迎一键三连！🙌
