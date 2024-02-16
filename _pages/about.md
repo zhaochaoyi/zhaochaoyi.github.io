@@ -94,6 +94,48 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
   Dorling Kindersley Ltd. Translated by Chaoyi Zhao.  
   电子工业出版社 (Publishing House of Electronics Industry), 2021. [https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565 Link].
 
+# 👨‍🏫 Teaching
+
+I served as a teaching assistant for the following courses in Peking University: 
+
+- **Fall 2022: 量化交易 (Quantitative Trading)**  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: 吴岚 教授 (Prof. Lan Wu). [./course/2022_量化交易-syllabus.pdf Syllabus]. 
+
+- **Fall 2022: 固定收益证券实务 (Practice for Fixed Income Securities)**  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: 吴岚 教授 等 (Prof. Lan Wu /et al./). 
+  [./course/固定收益证券实务课程介绍-2022.pdf Syllabus]. 
+
+- **Spring 2022: 期货衍生品理论与实务 (Theory and Practice for Futures and Other Derivatives)**  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: 吴岚 教授 等 (Prof. Lan Wu /et al./). 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/futuresderivatives-2022 Link]. 
+
+- **Fall 2021: 数学分析III习题课 (Exercise Class for Mathematical Analysis III)**  
+  Core Class for Undergraduate Students. Instructor: 杨家忠 教授 (Prof. Jiazhong Yang). 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/mathanalysis3-2021 Link]. 
+
+- **Fall 2021: 固定收益证券实务 (Practice for Fixed Income Securities)**  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: 吴岚 教授 等 (Prof. Lan Wu /et al./). 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/fixedincome-2021 Link]. 
+
+- **Spring 2021: 数学分析II习题课 (Exercise Class for Mathematical Analysis II)**  
+  Core Class for Undergraduate Students. Instructor: 杨家忠 教授 (Prof. Jiazhong Yang). 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/mathanalysis-2021 Link]. 
+
+- **Spring 2021: 风险管理与金融监管 (Risk Management and Financial Regulation)**  
+  Core Class for Graduate Students. Instructor: 吴岚 教授 (Prof. Lan Wu). 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/riskandregulation-2021 Link]. 
+
+- **Fall 2020: 量化交易 (Quantitative Trading)**  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: 孙健 教授 (Prof. Jian Sun). 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/quant-2020 Link]. 
+
+- **Spring 2020: 概率统计习题课 (Exercise Class for Probability and Statistics)**  
+  Elective for Undergraduate Students. 
+  [http://scholar.pku.edu.cn/zhaochaoyi/classes/prob-and-stat-2020 Link]. 
+
+- **Fall 2019: 金融数学引论 (Introduction to Financial Mathematics)**  
+  Core Class for Undergraduate Students. Instructor: 吴岚 教授 (Prof. Lan Wu). [http://scholar.pku.edu.cn/zhaochaoyi/classes/fin-math-intro-2019 Link]. 
+
 
 # 🎖 Honors
 
@@ -107,6 +149,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 - **2018**: Merit Student Pacesetter
 - **2018**: Beijing Merit Student
 - **2017**: Excellent Student Leader
+
 ## Scholarships
 - **2023, 2018**: National Scholarship
 - **2022, 2021, 2020, 2019**: President Scholarship
