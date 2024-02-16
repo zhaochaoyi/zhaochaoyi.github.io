@@ -96,7 +96,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 👨‍🏫 Teaching
 
-I served as a teaching assistant for the following courses in Peking University: 
+I served as a teaching assistant for the following courses at Peking University: 
 
 - **Fall 2022: 量化交易 (Quantitative Trading)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: 吴岚 教授 (Prof. Lan Wu). [./course/2022_量化交易-syllabus.pdf Syllabus]. 
@@ -136,6 +136,8 @@ I served as a teaching assistant for the following courses in Peking University:
 - **Fall 2019: 金融数学引论 (Introduction to Financial Mathematics)**  
   Core Class for Undergraduate Students. Instructor: 吴岚 教授 (Prof. Lan Wu). [http://scholar.pku.edu.cn/zhaochaoyi/classes/fin-math-intro-2019 Link]. 
 
+
+I also served as a teaching assistant for the Master's Program of Tulane University \& University of Chinese Academy of Social Sciences from 2019 to 2021. 
 
 # 🎖 Honors
 
