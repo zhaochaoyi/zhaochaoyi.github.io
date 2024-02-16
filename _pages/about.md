@@ -36,7 +36,9 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
   + This paper is currently on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277). 
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
   + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
-- **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I successfully early graduate for half a year. 
+- **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I am expected to be a Postdoctoral Associate at MIT Sloan School of Management in this year.
+  + I successfully early graduate for half a year.
+  + It is my honor to be a [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html) in Spring 2024. 
 - **2023.12**: I successfully pass my Ph.D. thesis defense!
   + The title of my Ph.D. thesis (in Chinese) is "Stochastic Models and Statistical Analysis for High-dimensional Multi-factor Models and Induced Order Statistics" (高维多因子模型与伴随次序统计量的随机模型与统计分析).
   + I am also happy to be the first student to defend my thesis in Zhihua Building, the new building of Peking University School of Mathematical Sciences.
