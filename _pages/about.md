@@ -14,9 +14,22 @@ I am an incoming Postdoctoral Associate at [MIT Sloan School of Management](http
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward) (2022) and the Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023). 
 
+Key research topics:
+- **Investments**
+  + Factor investing
+  + High-frequency investing/trading
+  + Sustainable investing
+- **Statistics**
+  + High-dimensional statistics
+  + Machine learning & deep learning
+- **Actuarial Sciences**
+
 Here is my latest CV. 
 
 Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
+
+I am very happy to work with motivated students. <font color="#AC2C1D">Don't hesitate to drop me an email if you are interested in cooperating with me!</font> 😆
+
 
 # 🔥 News
 - **2024.02**: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by ***<font color="#AC2C1D">Operations Research</font>***!
@@ -33,7 +46,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
         <td><div class="badge">With Prof. Ruixun Zhang</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="100%"></td>
     </tr>
 </table>
-- **2023.11**: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by ***Insurance: Mathematics and Economics***!
+- **2023.11**: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by ***<font color="#AC2C1D">Insurance: Mathematics and Economics</font>***!
   + This paper can be found on the homepage of the [journal](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
   + We propose several methods for obtaining endogenous and positive ultimate forward rates for risk-free interest rate curves based on the Smith-Wilson method. 
 
@@ -110,14 +123,15 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 I served as a teaching assistant for the following courses at Peking University: 
 
 - **Fall 2022: Quantitative Trading (量化交易)**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) [./course/2022_量化交易-syllabus.pdf Syllabus]. 
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚)
+  [Syllabus](./course/2022_量化交易-syllabus.pdf). 
 
 - **Fall 2022: Practice for Fixed Income Securities (固定收益证券实务)**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.* 
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
   [Syllabus](./course/固定收益证券实务课程介绍-2022.pdf). 
 
 - **Spring 2022: Theory and Practice for Futures and Other Derivatives (期货衍生品理论与实务)**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.* 
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
   [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/futuresderivatives-2022). 
 
 - **Fall 2021: Exercise Class for Mathematical Analysis III (数学分析III习题课)**  
@@ -149,7 +163,7 @@ I served as a teaching assistant for the following courses at Peking University:
   [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/fin-math-intro-2019). 
 
 
-I also served as a teaching assistant for the Master's Program of Tulane University \& University of Chinese Academy of Social Sciences from 2019 to 2021. 
+I also served as a teaching assistant for the Master's Program of Tulane University & University of Chinese Academy of Social Sciences from 2019 to 2021. 
 
 # 🎖 Honors
 
@@ -212,9 +226,15 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
   + Representative of seniors. [Link](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm).
 
 
-# 📖 Educations
+# 📖 CV
 
-- **Sep 2019 - Jan 2024: Ph.D. Candidate in Statistics**, School of Mathematical Sciences, Peking University
+## Affiliation
+- **2024 - Present: Postdoctoral Associate**, Sloan School of Management, MIT 
+- **2023 - Present: Associate**, Society of Actuaries
+  -- My [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
+  
+## Education
+- **Sep 2019 - Jan 2024: Ph.D. in Statistics**, School of Mathematical Sciences, Peking University
   + Main advisor: Prof. [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) 
   + Secondary advisor: Prof. [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html)
   + Early graduation for half a year
