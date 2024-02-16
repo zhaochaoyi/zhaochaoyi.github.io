@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Postdoctoral Associate at MIT Sloan School of Management, under the supervision of Professor Andrew W. Lo. I obtained my Ph.D. degree in Statistics from Peking University in January 2024, advised by Professor Lan Wu and Professor Ruixun Zhang. I received my BS in Mathematics and Applied Mathematics and BS in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the Society of Actuaries in 2023. 
+I am an incoming Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor Andrew W. Lo. I obtained my Ph.D. degree in Statistics from Peking University in January 2024, advised by Professor Lan Wu and Professor Ruixun Zhang. I received my BS in Mathematics and Applied Mathematics and BS in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the Society of Actuaries in 2023. 
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the S&P Global Academic ESG Research Award (2022) and the Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023). 
 
