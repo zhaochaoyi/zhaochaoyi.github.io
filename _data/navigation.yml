@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/acad-homepage.github.io/#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/acad-homepage.github.io/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/acad-homepage.github.io/#-publications-including-preprints"
+    url: "/#-publications-including-preprints"
 
   - title: "Teaching"
-    url: "/acad-homepage.github.io/#-teaching"
+    url: "/#-teaching"
 
   - title: "Honors"
-    url: "/acad-homepage.github.io/#-honors"
+    url: "/#-honors"
 
   - title: "Talks"
-    url: "/acad-homepage.github.io/#-talks"
+    url: "/#-talks"
 
   - title: "CV"
-    url: "/acad-homepage.github.io/#-cv"
+    url: "/#-cv"
 
   - title: "Hobbies"
-    url: "/acad-homepage.github.io/#-hobbies"
+    url: "/#-hobbies"
