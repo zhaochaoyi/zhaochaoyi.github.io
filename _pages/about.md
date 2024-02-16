@@ -75,6 +75,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 - **Optimal Impact Portfolios with General Dependence and Marginals**  
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
   *Operations Research*, forthcoming. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277).
+  + Second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023. 
 
 - **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
@@ -211,9 +212,9 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 - **Statistical Patterns of High-Frequency Data for A-share stocks in Shenzhen Stock Exchange (深交所A股市场高频数据统计特征实证研究)**
   + 第三届金融工程与风险管理青年学者研讨会, Shandong University of Finance and Economics, June 12, 2021. 
 
-- **Speech for the Opening Ceremony of School of Mathematical Sciences, 2018 (在数学科学学院2018年开学典礼上的发言)**
+- **[Speech for the Opening Ceremony of School of Mathematical Sciences, 2018 (在数学科学学院2018年开学典礼上的发言)](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm)**
   + Opening Ceremony, School of Mathematical Sciences, Peking University, September 15, 2018. 
-  + Representative of seniors. [Link](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm).
+  + Representative of seniors. 
 
 
 # 📜 CV
