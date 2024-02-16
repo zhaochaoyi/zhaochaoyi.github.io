@@ -35,7 +35,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 - **2024.02**: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by ***<font color="#AC2C1D">Operations Research</font>***!
   + This paper is currently on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277). 
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
-  + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
+  + I won second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
 - **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I am expected to be a Postdoctoral Associate at MIT Sloan School of Management in this year.
   + I successfully early graduate for half a year.
   + It is my honor to be a [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html) in Spring 2024. 
