@@ -24,7 +24,7 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 - **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I successfully early graduate for half a year. 
 - **2023.12**: I successfully pass my Ph.D. thesis defense!
   + I am also happy to be the first student to defend my thesis in Zhihua Building, the new building of School of Mathematical Sciences, Peking University.
- <div><div class="badge">CVPR 2016</div><img src='images/Defense_WithWu.jpg' alt="sym" width="100%"></div><div><div class="badge">CVPR 2016</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="100%"></div>
+ <div><div class="badge">CVPR 2016</div><img src='images/Defense_WithWu.jpg' alt="sym" width="30%"></div><div><div class="badge">CVPR 2016</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="30%"></div>
 - **2023.11**: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by ***Insurance: Mathematics and Economics***!
 
 # 📝 Publications (Including Preprints)
