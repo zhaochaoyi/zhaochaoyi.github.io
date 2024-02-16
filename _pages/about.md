@@ -132,36 +132,28 @@ I served as a teaching assistant for the following courses at Peking University:
 
 - **Spring 2022: Theory and Practice for Futures and Other Derivatives (期货衍生品理论与实务)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/futuresderivatives-2022). 
-
+  
 - **Fall 2021: Exercise Class for Mathematical Analysis III (数学分析III习题课)**  
   Core Class for Undergraduate Students. Instructor: Prof. Jiazhong Yang (杨家忠)  
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/mathanalysis3-2021). 
-
+  
 - **Fall 2021: Practice for Fixed Income Securities (固定收益证券实务)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.* 
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/fixedincome-2021). 
-
+  
 - **Spring 2021: Exercise Class for Mathematical Analysis II (数学分析II习题课)**  
   Core Class for Undergraduate Students. Instructor: Prof. Jiazhong Yang (杨家忠)  
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/mathanalysis-2021). 
-
+  
 - **Spring 2021: Risk Management and Financial Regulation (风险管理与金融监管)**  
   Core Class for Graduate Students. Instructor: Prof. Lan Wu (吴岚)  
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/riskandregulation-2021). 
-
+  
 - **Fall 2020: Quantitative Trading (量化交易)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Jian Sun (孙健) 
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/quant-2020). 
-
+  
 - **Spring 2020: Exercise Class for Probability and Statistics (概率统计习题课)**  
   Elective for Undergraduate Students. 
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/prob-and-stat-2020). 
-
+  
 - **Fall 2019: Introduction to Financial Mathematics (金融数学引论)**  
   Core Class for Undergraduate Students. Instructor: Prof. Lan Wu (吴岚)
-  [Link](http://scholar.pku.edu.cn/zhaochaoyi/classes/fin-math-intro-2019). 
-
+  
 
 I also served as a teaching assistant for the Master's Program of Tulane University & University of Chinese Academy of Social Sciences from 2019 to 2021. 
 
@@ -226,12 +218,15 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
   + Representative of seniors. [Link](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm).
 
 
-# 📖 CV
+# 📜 CV
+
+A full version of my latest CV can be found here. 
 
 ## Affiliation
-- **2024 - Present: Postdoctoral Associate**, Sloan School of Management, MIT 
+- **2024 - Present: Postdoctoral Associate**, Sloan School of Management, MIT
+  + Advisor: Prof. [Andrew W. Lo](https://alo.mit.edu/)
 - **2023 - Present: Associate**, Society of Actuaries
-  -- My [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
+  + My [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
   
 ## Education
 - **Sep 2019 - Jan 2024: Ph.D. in Statistics**, School of Mathematical Sciences, Peking University
@@ -241,3 +236,10 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 - **Sep 2015 - Jul 2019: B.S. in Mathematics and Applied Mathematics**, School of Mathematical Sciences, Peking University
   + Sep 2017 - Jul 2019: [Elite Undergraduate Program of Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
 - **Sep 2016 - Jul 2019: B.S. (Double Degree) in Computer Science and Technology**, School of Electronics Engineering and Computer Science, Peking University
+
+
+# 🧩 Hobbies
+
+## 🏊‍♂️ Swimming
+
+
