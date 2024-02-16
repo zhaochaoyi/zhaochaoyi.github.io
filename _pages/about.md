@@ -20,20 +20,19 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
 
 # 🔥 News
 - **2024.02**: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by ***Operations Research***!
+  + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
   + I won second place in the Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch) in 2023.
 - **2024.01**: I receive my Ph.D. degree in Statistics from Peking University! I successfully early graduate for half a year. 
 - **2023.12**: I successfully pass my Ph.D. thesis defense!
   + I am also happy to be the first student to defend my thesis in Zhihua Building, the new building of School of Mathematical Sciences, Peking University.
- 
 <table border="0">
     <tr>
-        <td><div class="badge">CVPR 2016</div><img src='images/Defense_WithWu.jpg' alt="sym" width="100%"></td>
-        <td><div class="badge">CVPR 2016</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="100%"></td>
+        <td><div class="badge">With Prof. Lan Wu</div><img src='images/Defense_WithWu.jpg' alt="sym" width="100%"></td>
+        <td><div class="badge">With Prof. Ruixun Zhang</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="100%"></td>
     </tr>
 </table>
-
-
 - **2023.11**: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by ***Insurance: Mathematics and Economics***!
+  + We propose several methods for obtaining endogenous and positive ultimate forward rates for risk-free interest rate curves based on the Smith-Wilson method. 
 
 # 📝 Publications (Including Preprints)
 
