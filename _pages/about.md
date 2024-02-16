@@ -27,8 +27,8 @@ Contact: zhaochaoyi [at] pku [dot] edu [dot] cn
  
 <table border="0">
     <tr>
-        <td><div class="badge">CVPR 2016</div><img src='images/Defense_WithWu.jpg' alt="sym" width="30%"></td>
-        <td><div class="badge">CVPR 2016</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="30%"></td>
+        <td><div class="badge">CVPR 2016</div><img src='images/Defense_WithWu.jpg' alt="sym" width="100%"></td>
+        <td><div class="badge">CVPR 2016</div><img src='images/Defense_WithZhang.jpg' alt="sym" width="100%"></td>
     </tr>
 </table>
 
