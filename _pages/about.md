@@ -258,3 +258,7 @@ Swim (butterfly stroke) in Kunming, Yunnan in October 2023.
 My [Bilibili](https://www.bilibili.com/) account username is [猪肘子dr赵](https://space.bilibili.com/381529817/), and I produce content related to mathematics and finance. As of now, my account boasts over 3,000 followers. 
 
 Currently, I am actively uploading a series of videos on financial mathematics (in Chinese), available [here](https://www.bilibili.com/video/BV1Du4m1P7xb/). Feel free to join me on this learning journey by following my channel! 欢迎一键三连！🙌
+
+<img src='images/bilibili.png' alt="sym" width="100%">
+
+
