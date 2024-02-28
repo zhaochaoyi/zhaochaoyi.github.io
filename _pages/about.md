@@ -258,7 +258,7 @@ Swim (butterfly stroke) in Kunming, Yunnan in October 2023.
 
 ## 📷 Bilibili Content Creator
 
-My [Bilibili](https://www.bilibili.com/) account username is [猪肘子Dr赵](https://space.bilibili.com/381529817/), and I produce content related to mathematics and finance. As of now, my account boasts over 3,000 followers. 
+My [Bilibili](https://www.bilibili.com/) account username is [猪肘子Dr赵](https://space.bilibili.com/381529817/), and I produce content related to mathematics and finance. As of now, my account boasts 4,000+ followers. 
 
 Currently, I am actively uploading a series of videos on financial mathematics (in Chinese), available [here](https://www.bilibili.com/video/BV1Du4m1P7xb/). Feel free to join me on this learning journey by following my channel! 欢迎一键三连！🙌
 
