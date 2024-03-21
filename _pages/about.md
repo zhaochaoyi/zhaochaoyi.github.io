@@ -35,7 +35,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 # 🔥 News
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
-  + This paper is currently published online: [PDF](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics.pdf). [Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf). [Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400). 
+  + This paper is currently published online: [PDF](./publication/2024_OR_Induced_Order_Statistics.pdf). [Appendix](./publication/2024_OR_Induced_Order_Statistics_Appendix.pdf). [Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400). 
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
   + I won second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
 - **2024.01: I receive my Ph.D. degree in Statistics from Peking University! I am expected to be a Postdoctoral Associate at MIT Sloan School of Management in this year.**
@@ -52,7 +52,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 </table>
 
 - **2023.11: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by** ***<font color="#AC2C1D">Insurance: Mathematics and Economics</font>*****!**
-  + This paper can be found [here](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
+  + This paper can be found here: [PDF](./publication/2024_IME_SW.pdf). [Journal](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
   + We propose several methods for obtaining endogenous and positive ultimate forward rates for risk-free interest rate curves based on the Smith-Wilson method. 
 
 <br/>
@@ -75,14 +75,14 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 - **Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market**  
   Siyu Liu, Chaoyi Zhao, and Lan Wu.  
-  *International Journal of Financial Engineering*, 9(04), 2250033, 2022. [Journal](https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335).
+  *International Journal of Financial Engineering*, 9(04), 2250033, 2022. [PDF](./publication/2022_IJFE_NPC.pdf). [Journal](https://www.worldscientific.com/doi/abs/10.1142/S2424786322500335).
 
 
 ## 🍀 Sustainable Investing
 
 - **Optimal Impact Portfolios with General Dependence and Marginals**  
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
-  *Operations Research*, forthcoming. [PDF](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics.pdf). [Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf). [Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400).
+  *Operations Research*, forthcoming. [PDF](./publication/2024_OR_Induced_Order_Statistics.pdf). [Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf). [Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400).
   + Second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
 
 - **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
@@ -99,18 +99,18 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 - **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
   Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin.  
-  *The European Journal of Finance*, forthcoming. [Journal](https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567).
+  *The European Journal of Finance*, forthcoming. [PDF](./publication/2023_EJF_ImageML.pdf). [Journal](https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567).
 
 - **The Success of AdaBoost and its Application in Portfolio Management**  
   Yijian Chuan, Chaoyi Zhao, Zhenrui He, and Lan Wu.  
-  *International Journal of Financial Engineering*, 8(02), 2142001, 2021. [Journal](https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019). 
+  *International Journal of Financial Engineering*, 8(02), 2142001, 2021. [PDF](./publication/2021_IJFE_AdaBoost.pdf). [Journal](https://www.worldscientific.com/doi/abs/10.1142/S2424786321420019). 
 
 
 ## 🧓 Actuarial Sciences
 
 - **Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates**  
   Chaoyi Zhao, Zijian Jia, and Lan Wu.  
-  *Insurance: Mathematics and Economics*, 114: 156--175, 2024. [Journal](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
+  *Insurance: Mathematics and Economics*, 114: 156--175, 2024. [PDF](./publication/2024_IME_SW.pdf). [Journal](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
 
 
 ## 📚 Books
