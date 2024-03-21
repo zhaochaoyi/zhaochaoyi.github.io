@@ -35,7 +35,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 # 🔥 News
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
-  + This paper is currently on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277). 
+  + This paper is currently published online: [PDF](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics.pdf). [Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf). [Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400). 
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
   + I won second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
 - **2024.01: I receive my Ph.D. degree in Statistics from Peking University! I am expected to be a Postdoctoral Associate at MIT Sloan School of Management in this year.**
@@ -54,6 +54,9 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 - **2023.11: 🎉 Our paper "Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates" is accepted by** ***<font color="#AC2C1D">Insurance: Mathematics and Economics</font>*****!**
   + This paper can be found [here](https://doi.org/10.1016/j.insmatheco.2023.11.003). 
   + We propose several methods for obtaining endogenous and positive ultimate forward rates for risk-free interest rate curves based on the Smith-Wilson method. 
+
+<br/>
+<br/>
 
 # 📝 Publications (Including Preprints)
 
@@ -79,7 +82,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 - **Optimal Impact Portfolios with General Dependence and Marginals**  
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
-  *Operations Research*, forthcoming. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4177277).
+  *Operations Research*, forthcoming. [PDF](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics.pdf). [Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf). [Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400).
   + Second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
 
 - **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
@@ -124,6 +127,9 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
   Dorling Kindersley Ltd. Translated by Chaoyi Zhao.  
   Publishing House of Electronics Industry (电子工业出版社), 2021. [Link](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565).
 
+<br/>
+<br/>
+
 # 👨‍🏫 Teaching
 
 I served as a teaching assistant for the following courses at Peking University: 
@@ -161,6 +167,9 @@ I served as a teaching assistant for the following courses at Peking University:
 
 I also served as a teaching assistant for the Master's Program of Tulane University & University of Chinese Academy of Social Sciences from 2019 to 2021. 
 
+<br/>
+<br/>
+
 # 🎖 Honors
 
 ## Awards
@@ -183,6 +192,9 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 - **2018**: The National Southwest Associated University Scholarship (Peking University)
 - **2017**: Shenzhen Finance Institute Scholarship (the Chinese University of Hong Kong, Shenzhen)
 - **2016**: Founder Scholarship (Peking University)
+
+<br/>
+<br/>
 
 # 💬 Talks
 - **On Consistency of Signatures Using Lasso**
@@ -222,6 +234,9 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
   + Representative of seniors. 
 
 
+<br/>
+<br/>
+
 # 📜 CV
 
 A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf). 
@@ -241,6 +256,9 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
   + Sep 2017 - Jul 2019: [Elite Undergraduate Program of Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
 - **Sep 2016 - Jul 2019: B.S. (Double Degree) in Computer Science and Technology**, School of Electronics Engineering and Computer Science, Peking University
 
+
+<br/>
+<br/>
 
 # 🧩 Hobbies
 
