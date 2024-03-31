@@ -85,6 +85,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
   *Operations Research*, forthcoming. [[PDF](./publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)]
   + Second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
+  + Reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.
 
 - **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
