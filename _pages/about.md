@@ -34,6 +34,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
+- **2024.03: Our work has been reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.**
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
   + This paper is currently published online: [[PDF](./publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](./publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)].
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
