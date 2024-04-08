@@ -181,6 +181,4 @@ Swim (butterfly stroke) in Kunming, Yunnan in October 2023.
 </div>
 </div>
 
-<img src='images/bilibili.png' alt="sym" width="100%">
-
 
