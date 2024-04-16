@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
+I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
@@ -34,6 +34,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
+- **2024.04: 🎉 I am enrolled as a Postdoctoral Associate at MIT Sloan School of Management. Welcome to Cambridge and MIT!**
 - **2024.03: Our work has been reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.**
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
   + This paper is currently published online: [[PDF](./publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](./publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)].
