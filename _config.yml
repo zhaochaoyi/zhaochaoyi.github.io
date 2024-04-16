@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chaoyi Zhao 赵朝熠"
-description              : "Incoming Postdoc @ Sloan"
+description              : "Postdoc @ MIT Sloan"
 repository               : "zhaochaoyi.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Chaoyi Zhao 赵朝熠"
   avatar           : "images/headshot.jpg"
   bio              : 
-  location         : "Beijing, China"
+  location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=StLYnSMAAAAJ"
