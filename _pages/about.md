@@ -245,7 +245,7 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf). 
 
 ## Affiliation
-- (Expected) **2024 - Present: Postdoctoral Associate**, Sloan School of Management, Massachusetts Institute of Technology
+- **2024 - Present: Postdoctoral Associate**, Sloan School of Management, Massachusetts Institute of Technology
   + Advisor: Prof. [Andrew W. Lo](https://alo.mit.edu/)
 - **2023 - Present: Associate**, Society of Actuaries (ASA, SOA)
   + My SOA [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
