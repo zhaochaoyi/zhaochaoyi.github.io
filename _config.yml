@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chaoyi Zhao 赵朝熠"
-description              : "Postdoctoral Associate @ MIT Sloan School of Management"
+description              : "  Postdoc @ MIT Sloan"
 repository               : "zhaochaoyi.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=StLYnSMAAAAJ"
-  email            : "zhaochaoyi@pku.edu.cn"
+  email            : "cy_zhao@mit.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
