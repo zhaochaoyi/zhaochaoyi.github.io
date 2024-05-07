@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
+I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I am also affiliated with the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
@@ -255,6 +255,7 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
 
 ## Affiliation
 - **2024 - Present: Postdoctoral Associate**, Sloan School of Management, Massachusetts Institute of Technology
+  + [MIT Laboratory for Financial Engineering](https://lfe.mit.edu)
   + Advisor: Prof. [Andrew W. Lo](https://alo.mit.edu/)
 - **2023 - Present: Associate**, Society of Actuaries (ASA, SOA)
   + My SOA [profile](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D).
