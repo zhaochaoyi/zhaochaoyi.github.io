@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I am also affiliated with the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
+Hi! I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I am also affiliated with the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I was enrolled as an Associate of the [Society of Actuaries](https://www.soa.org/) in 2023. 
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
@@ -35,10 +35,11 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
+- **2024.06: 🎉 I am honored to receive the** ***<font color="#AC2C1D"Outstanding Doctoral Dissertation Award of Peking University</font>*****!**
 - **2024.04: The preprint of our working paper "The Checkerboard Copula and Dependence Concepts" is now on arXiv.** 
   + This paper can be found here: [[arXiv](https://arxiv.org/abs/2404.15023)]. Critical comments are very much appreciated.
   + We study the problem of choosing the copula when the marginal distributions of a random vector are not all continuous. We show that the checkerboard copula (the unique copula with a distribution that is as uniform as possible within regions of flexibility) has the largest Shannon entropy, which means that it carries the least information among all possible copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence information of the original random vector, leading to two applications in the context of diversification penalty and impact portfolios.
-- **2024.04: 🎉 I am enrolled as a Postdoctoral Associate at** ***<font color="#AC2C1D">MIT Sloan School of Management</font>*****. Welcome to Cambridge and MIT!**
+- **2024.04: 🎉 I am enrolled as a Postdoctoral Associate at** ***<font color="#AC2C1D">MIT Sloan School of Management</font>*****. Welcome to visit Cambridge and MIT!**
 - **2024.03: Our work has been reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.**
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
   + This paper is currently published online: [[PDF](./publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](./publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)].
@@ -185,6 +186,7 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 # 🎖 Honors
 
 ## Awards
+- **2024**: Outstanding Doctoral Dissertation Award of Peking University
 - **2024, 2019**: [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html), Peking University Excellent Graduate
 - **2023, 2022, 2021, 2020, 2016**: Merit Student (Peking University)
 - **2022**: [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward)
