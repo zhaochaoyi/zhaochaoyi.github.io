@@ -35,7 +35,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
-- **2024.06: 🎉 I am honored to receive the** ***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>*****!**
+- **2024.07: 🎉 I am honored to receive the** ***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>*****!**
 - **2024.04: The preprint of our working paper "The Checkerboard Copula and Dependence Concepts" is now on arXiv.** 
   + This paper can be found here: [[arXiv](https://arxiv.org/abs/2404.15023)]. Critical comments are very much appreciated.
   + We study the problem of choosing the copula when the marginal distributions of a random vector are not all continuous. We show that the checkerboard copula (the unique copula with a distribution that is as uniform as possible within regions of flexibility) has the largest Shannon entropy, which means that it carries the least information among all possible copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence information of the original random vector, leading to two applications in the context of diversification penalty and impact portfolios.
