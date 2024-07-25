@@ -35,7 +35,8 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
-- **2024.07: 🎉 I am honored to receive the** [***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>***](https://mp.weixin.qq.com/s/DlP8SeWEUOa5ZimUm01oIA)**!**
+- **2024.07: 🎉 I am honored to receive the** [***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>***](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/381890.htm)**!**
+  + This is reported by [School of Mathematical Sciences](https://mp.weixin.qq.com/s/DlP8SeWEUOa5ZimUm01oIA), Peking University.
 - **2024.04: The preprint of our working paper "The Checkerboard Copula and Dependence Concepts" is now on arXiv.** 
   + This paper can be found here: [[arXiv](https://arxiv.org/abs/2404.15023)]. Critical comments are very much appreciated.
   + We study the problem of choosing the copula when the marginal distributions of a random vector are not all continuous. We show that the checkerboard copula (the unique copula with a distribution that is as uniform as possible within regions of flexibility) has the largest Shannon entropy, which means that it carries the least information among all possible copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence information of the original random vector, leading to two applications in the context of diversification penalty and impact portfolios.
@@ -186,7 +187,7 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 # 🎖 Honors
 
 ## Awards
-- **2024**: [Outstanding Doctoral Dissertation Award of Peking University](https://mp.weixin.qq.com/s/DlP8SeWEUOa5ZimUm01oIA)
+- **2024**: [Outstanding Doctoral Dissertation Award of Peking University](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/381890.htm)
 - **2024, 2019**: [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html), Peking University Excellent Graduate
 - **2023, 2022, 2021, 2020, 2016**: Merit Student (Peking University)
 - **2022**: [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward)
