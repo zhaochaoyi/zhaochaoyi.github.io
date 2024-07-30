@@ -102,8 +102,8 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 ## 💻 Machine/Deep Learning and Its Application in Finance
 
-- **On Consistency of Signatures Using Lasso**  
-  Xin Guo, Ruixun Zhang, and Chaoyi Zhao.  
+- **On Consistency of Signature Using Lasso**  
+  Xin Guo, Binnan Wang, Ruixun Zhang, and Chaoyi Zhao.  
   Under review. [[arXiv](https://arxiv.org/abs/2305.10413)]
 
 - **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
