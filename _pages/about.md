@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I am also affiliated with the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I am a Fellow of the [Society of Actuaries](https://www.soa.org/). 
+Hi! I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I am also affiliated with the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I am a Fellow of the [Society of Actuaries](https://www.soa.org/) (FSA). 
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
@@ -35,7 +35,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
-- **2024.09: 🎆 I am enrolled as a ***<font color="#AC2C1D">Fellow of the Society of Actuaries</font>*****!**
+- **2024.09: 🎆 I am enrolled as a ***<font color="#AC2C1D">Fellow of the Society of Actuaries (FSA)</font>*****!**
 - **2024.07: 🎆 I am honored to receive the** [***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>***](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/381890.htm)**!**
   + This is reported by [School of Mathematical Sciences](https://mp.weixin.qq.com/s/DlP8SeWEUOa5ZimUm01oIA), Peking University.
 - **2024.04: The preprint of our working paper "The Checkerboard Copula and Dependence Concepts" is now on arXiv.** 
