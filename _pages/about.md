@@ -35,7 +35,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 🔥 News
-- **2024.09: 🎆 I am enrolled as a ***<font color="#AC2C1D">Fellow of the Society of Actuaries (FSA)</font>*****!**
+- **2024.09: 🎆 I am enrolled as a** ***<font color="#AC2C1D">Fellow of the Society of Actuaries (FSA)</font>*****!**
 - **2024.07: 🎆 I am honored to receive the** [***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>***](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/381890.htm)**!**
   + This is reported by [School of Mathematical Sciences](https://mp.weixin.qq.com/s/DlP8SeWEUOa5ZimUm01oIA), Peking University.
 - **2024.04: The preprint of our working paper "The Checkerboard Copula and Dependence Concepts" is now on arXiv.** 
