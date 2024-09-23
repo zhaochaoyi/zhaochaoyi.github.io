@@ -31,6 +31,8 @@ Contact: cy_zhao [at] mit [dot] edu
 
 I am very happy to work with motivated students. **<font color="#AC2C1D">Don't hesitate to drop me an email if you are interested in cooperating with me!</font>** 😆
 
+<img src='images/zhihua.jpg' alt="sym" width="100%">
+
 <br/>
 <br/>
 
