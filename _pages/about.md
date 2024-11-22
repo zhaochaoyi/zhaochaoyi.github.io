@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/) and the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_14.htm) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I am a Fellow of the [Society of Actuaries](https://www.soa.org/) (FSA). 
+Hi! I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mitsloan.mit.edu/) and the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu), under the supervision of Professor [Andrew W. Lo](https://alo.mit.edu/). I obtained my Ph.D. degree in Statistics from [Peking University School of Mathematical Sciences](https://www.math.pku.edu.cn/) in January 2024, advised by Professor [Lan Wu](http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_14.htm) and Professor [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun/). I received my B.S. in Mathematics and Applied Mathematics and B.S. in Computer Science and Technology (double degree) from Peking University in 2019. I am a Fellow of the [Society of Actuaries](https://www.soa.org/) (FSA). 
 
 My research interests include investments, high-dimensional statistics, machine learning applications in finance, healthcare finance, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
@@ -269,8 +269,8 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
   
 ## Education
 - **Sep 2019 - Jan 2024: Ph.D. in Statistics**, School of Mathematical Sciences, Peking University
-  + Main advisor: Prof. [Lan Wu](http://english.math.pku.edu.cn/peoplefaculty/14.html) 
-  + Secondary advisor: Prof. [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun%20/index.html)
+  + Main advisor: Prof. [Lan Wu](http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_14.htm) 
+  + Secondary advisor: Prof. [Ruixun Zhang](https://www.math.pku.edu.cn/teachers/ZhangRuixun/)
   + Early graduation for half a year
 - **Sep 2015 - Jul 2019: B.S. in Mathematics and Applied Mathematics**, School of Mathematical Sciences, Peking University
   + Sep 2017 - Jul 2019: [Elite Undergraduate Program of Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
@@ -295,13 +295,5 @@ I reach the goal of swimming 10,000 meters in one go! It took me about four hour
 Swim (butterfly stroke) in Kunming, Yunnan in October 2023. 
 </div>
 </div>
-
-## 📷 Bilibili Content Creator
-
-My [Bilibili](https://www.bilibili.com/) account username is [猪肘子Dr赵](https://space.bilibili.com/381529817/), and I produce content related to mathematics and finance. As of now, my account boasts 4,000+ followers. 
-
-Currently, I am actively uploading a series of videos on financial mathematics (in Chinese), available [here](https://www.bilibili.com/video/BV1Du4m1P7xb/). Feel free to join me on this learning journey by following my channel! 欢迎一键三连！🙌
-
-<img src='images/bilibili.png' alt="sym" width="100%">
 
 
