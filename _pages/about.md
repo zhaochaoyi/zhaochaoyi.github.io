@@ -81,7 +81,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 ## 👩🏽‍💻 High-frequency Investing/Trading
 
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
-  Ruixun Zhang, Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, and Lan Wu.  
+  Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, Lan Wu, and Ruixun Zhang.  
   Under review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)]
 
 - **Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market**  
@@ -93,7 +93,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 
 - **Optimal Impact Portfolios with General Dependence and Marginals**  
   Andrew W. Lo, Lan Wu, Ruixun Zhang, and Chaoyi Zhao.  
-  *Operations Research*, forthcoming. [[PDF](./publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)]
+  *Operations Research*, 72(5), 1775-1789, 2024. [[PDF](./publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](https://zhaochaoyi.github.io/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)]
   + Second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
   + Reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.
 
@@ -148,6 +148,11 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 <br/>
 
 # 👨‍🏫 Teaching
+
+Teaching assistant at MIT: 
+
+- **Fall 2024: Healthcare Finance**  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Andrew W. Lo
 
 I served as a teaching assistant for the following courses at Peking University: 
 
@@ -215,7 +220,9 @@ I also served as a teaching assistant for the Master's Program of Tulane Univers
 <br/>
 
 # 💬 Talks
-- **On Consistency of Signatures Using Lasso**
+- **On Consistency of Signature Using Lasso**
+  + *2024 INFORMS Annual Meeting*, Oct 22, 2024.
+     * Session chair of the *Machine Learning in Finance II* Session. 
   + *CSIAM 2023*, Oct 15, 2023.
   + *UC Berkeley Seminar*, May 7, 2023. 
 
