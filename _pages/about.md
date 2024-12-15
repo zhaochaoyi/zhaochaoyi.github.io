@@ -81,7 +81,7 @@ I am very happy to work with motivated students. **<font color="#AC2C1D">Don't h
 ## 👩🏽‍💻 High-frequency Investing/Trading
 
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
-  Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Zhiwei Yao, Yihao Zhou, Lan Wu, and Ruixun Zhang.  
+  Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang.  
   Under review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)]
 
 - **Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market**  
