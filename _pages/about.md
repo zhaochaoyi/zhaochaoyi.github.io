@@ -297,6 +297,8 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
 
 # 🧩 Misc
 
+<img src='images/Acadia.jpg' alt="sym" width="100%">
+
 ## 🏊‍♂️ Swimming
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2024.01</div><img src='images/swim_record.jpg' alt="sym" width="50%"></div></div>
