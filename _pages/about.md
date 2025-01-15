@@ -287,7 +287,7 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
 <br/>
 <br/>
 
-# 🧩 Hobbies
+# 🧩 Misc
 
 ## 🏊‍♂️ Swimming
 
