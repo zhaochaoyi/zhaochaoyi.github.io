@@ -31,7 +31,7 @@ Contact: cy_zhao [at] mit [dot] edu
 
 I am very happy to work with motivated students. **<font color="#AC2C1D">Don't hesitate to drop me an email if you are interested in cooperating with me!</font>** 😆
 
-<img src='images/zhihua.jpg' alt="sym" width="100%">
+<img src='images/zhihua.jpg' alt="sym" width="60%" style="margin: 0 auto;" />
 
 <br/>
 <br/>
@@ -297,7 +297,7 @@ A full version of my latest CV can be found [here](./CV/CYZhao_CV.pdf).
 
 # 🧩 Misc
 
-<img src='images/Acadia.jpg' alt="sym" width="100%">
+<img src='images/Acadia.jpg' alt="sym" width="60%" style="margin: 0 auto;" />
 
 ## 🏊‍♂️ Swimming
 
