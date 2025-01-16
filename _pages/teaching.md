@@ -9,12 +9,12 @@ redirect_from:
 
 # 👨‍🏫 Teaching
 
-Teaching assistant at MIT: 
+## Teaching Assistant at MIT
 
 - **Fall 2024: Healthcare Finance**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Andrew W. Lo
 
-I served as a teaching assistant for the following courses at Peking University: 
+## Teaching Assistant at Peking University
 
 - **Fall 2022: Quantitative Trading (量化交易)**  
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚)
