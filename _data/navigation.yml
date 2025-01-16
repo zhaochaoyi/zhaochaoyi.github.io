@@ -11,7 +11,6 @@ main:
 
   - title: "Teaching"
     url: "/#-teaching"
-    target: "_self"
 
   - title: "Honors"
     url: "/#-honors"
