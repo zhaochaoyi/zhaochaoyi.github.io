@@ -10,7 +10,7 @@ redirect_from:
 # 🔥 News
 
 - **2025.01: 🎉 Our paper "High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants" is accepted by** ***<font color="#AC2C1D">Pacific-Basin Finance Journal</font>*****!**
-  + This paper can be found here: [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)]. 
+  + This paper is currently published online: [[PDF](/publication/2025_PBFJ_Liquidity.pdf)] [[Appendix](/publication/2025_PBFJ_Liquidity_Appendix.pdf)] [[Journal](https://www.sciencedirect.com/science/article/pii/S0927538X25000186)].
   + We study a range of high-frequency liquidity measures in the Chinese stock market using limit order book data. 
 
 - **2024.09: 🎆 I am enrolled as a** [***<font color="#AC2C1D">Fellow of the Society of Actuaries (FSA)</font>***](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D)**!**
