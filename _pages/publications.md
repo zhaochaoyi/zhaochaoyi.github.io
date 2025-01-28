@@ -20,7 +20,7 @@ redirect_from:
 
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
   Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang.  
-  *Pacific-Basin Finance Journal*, 2025, forthcoming. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4191675)]
+  *Pacific-Basin Finance Journal*, 90, 102681, 2025. [[PDF](/publication/2025_PBFJ_Liquidity.pdf)] [[Appendix](/publication/2025_PBFJ_Liquidity_Appendix.pdf)] [[Journal](https://www.sciencedirect.com/science/article/pii/S0927538X25000186)]
 
 - **Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market**  
   Siyu Liu, Chaoyi Zhao, and Lan Wu.  
