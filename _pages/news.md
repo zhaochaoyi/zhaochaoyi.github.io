@@ -9,6 +9,10 @@ redirect_from:
 
 # 🔥 News
 
+- **2025.03: 🎉 Our paper "On Consistency of Signature Using Lasso" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
+  + This paper can be found here: [[arXiv](https://arxiv.org/abs/2305.10413)]. 
+  + We revisits the consistency issue of Lasso regression for the signature transform, both theoretically and numerically.
+
 - **2025.01: 🎉 Our paper "The Checkerboard Copula and Dependence Concepts" is accepted by** ***<font color="#AC2C1D">SIAM Journal on Financial Mathematics</font>*****!**
   + This paper can be found here: [[arXiv](https://arxiv.org/abs/2404.15023)]. 
   + We study the problem of choosing the copula when the marginal distributions of a random vector are not all continuous. We show that the checkerboard copula (the unique copula with a distribution that is as uniform as possible within regions of flexibility) has the largest Shannon entropy, which means that it carries the least information among all possible copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence information of the original random vector, leading to two applications in the context of diversification penalty and impact portfolios.
