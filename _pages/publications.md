@@ -68,6 +68,12 @@ redirect_from:
   *Insurance: Mathematics and Economics*, 114: 156--175, 2024. [[PDF](/publication/2024_IME_SW.pdf)] [[Journal](https://doi.org/10.1016/j.insmatheco.2023.11.003)] 
 
 
+## 📊 Application of Statistical Methods in Finance and Beyond
+
+- **The Evolution of Discrimination: How Finite Memory Shape Population Behavior?**  
+  Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
+  Under review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135176)]
+
 ## 📚 Books
 
 - **Quantitative Investing (量化投资)**, in Chinese  
