@@ -11,7 +11,11 @@ redirect_from:
 
 - **2025.03: 🎉 Our paper "On Consistency of Signature Using Lasso" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
   + This paper can be found here: [[arXiv](https://arxiv.org/abs/2305.10413)]. 
-  + We revisits the consistency issue of Lasso regression for the signature transform, both theoretically and numerically.
+  + We study the statistical consistency of signature using Lasso regression, both theoretically and numerically. We demonstrate that signature can be applied to learn nonlinear functions and option prices with high accuracy, and the performance depends on properties of the underlying process and the choice of the signature.
+
+- **2025.02: Our paper "The Evolution of Discrimination: How Finite Memory Shape Population Behavior?" is on SSRN.**  Critical comments are very much appreciated.
+  + This paper can be found here: [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135176)]. 
+  + We develop an evolutionary model for individual discriminatory behavior that emerges naturally in a mixed population as an adaptive strategy. Our findings show that, when individuals have finite memory and face uncertain environments, they may rely on prior biases and observable group traits to make decisions, leading to discriminatory practices. We also demonstrate that a finite memory is a consequence of natural selection because it leads to higher fitness in dynamic environments with mutations. 
 
 - **2025.01: 🎉 Our paper "The Checkerboard Copula and Dependence Concepts" is accepted by** ***<font color="#AC2C1D">SIAM Journal on Financial Mathematics</font>*****!**
   + This paper can be found here: [[arXiv](https://arxiv.org/abs/2404.15023)]. 
