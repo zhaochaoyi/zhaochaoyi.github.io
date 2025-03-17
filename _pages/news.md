@@ -30,7 +30,7 @@ redirect_from:
 - **2024.07: 🎆 I am honored to receive the** [***<font color="#AC2C1D">Outstanding Doctoral Dissertation Award of Peking University</font>***](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/381890.htm)**!**
   + This is reported by [School of Mathematical Sciences](https://mp.weixin.qq.com/s/DlP8SeWEUOa5ZimUm01oIA), Peking University.
     
-- **2024.04: 🎆 I am enrolled as a Postdoctoral Associate at** ***<font color="#AC2C1D">MIT Sloan School of Management</font>*****. Welcome to visit Cambridge and MIT!**
+- **2024.04: 🎆 I am enrolled as a Postdoctoral Associate at** ***<font color="#AC2C1D">MIT Sloan School of Management</font>*****.**
 - **2024.03: Our work has been reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.**
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
   + This paper is currently published online: [[PDF](/publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)].
