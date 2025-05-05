@@ -10,7 +10,7 @@ redirect_from:
 # 🔥 News
 
 - **2025.03: 🎉 Our paper "On Consistency of Signature Using Lasso" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
-  + This paper can be found here: [[arXiv](https://arxiv.org/abs/2305.10413)]. 
+  + This paper is currently published online: [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)].
   + We study the statistical consistency of signature using Lasso regression, both theoretically and numerically. We demonstrate that signature can be applied to learn nonlinear functions and option prices with high accuracy, and the performance depends on properties of the underlying process and the choice of the signature.
 
 - **2025.02: Our paper "The Evolution of Discrimination: How Finite Memory Shape Population Behavior?" is on SSRN.**  Critical comments are very much appreciated.
