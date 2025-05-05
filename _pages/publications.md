@@ -45,7 +45,7 @@ redirect_from:
 
 - **On Consistency of Signature Using Lasso**  
   Xin Guo, Binnan Wang, Ruixun Zhang, and Chaoyi Zhao.  
-  *Operations Research*, 2025, forthcoming. [[arXiv](https://arxiv.org/abs/2305.10413)]
+  *Operations Research*, 2025, forthcoming. [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)]
 
 - **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
   Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin.  
