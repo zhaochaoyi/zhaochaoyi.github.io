@@ -18,7 +18,7 @@ redirect_from:
   + We develop an evolutionary model for individual discriminatory behavior that emerges naturally in a mixed population as an adaptive strategy. Our findings show that, when individuals have finite memory and face uncertain environments, they may rely on prior biases and observable group traits to make decisions, leading to discriminatory practices. We also demonstrate that a finite memory is a consequence of natural selection because it leads to higher fitness in dynamic environments with mutations. 
 
 - **2025.01: 🎉 Our paper "The Checkerboard Copula and Dependence Concepts" is accepted by** ***<font color="#AC2C1D">SIAM Journal on Financial Mathematics</font>*****!**
-  + This paper can be found here: [[arXiv](https://arxiv.org/abs/2404.15023)]. 
+  + This paper is currently published online: [[PDF](/publication/2025_SIAM_Checkerboard.pdf)] [[Journal](https://epubs.siam.org/doi/10.1137/24M1656645)].
   + We study the problem of choosing the copula when the marginal distributions of a random vector are not all continuous. We show that the checkerboard copula (the unique copula with a distribution that is as uniform as possible within regions of flexibility) has the largest Shannon entropy, which means that it carries the least information among all possible copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence information of the original random vector, leading to two applications in the context of diversification penalty and impact portfolios.
 
 - **2025.01: 🎉 Our paper "High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants" is accepted by** ***<font color="#AC2C1D">Pacific-Basin Finance Journal</font>*****!**
