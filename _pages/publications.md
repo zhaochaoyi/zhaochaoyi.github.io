@@ -61,11 +61,11 @@ redirect_from:
 
 - **The Checkerboard Copula and Dependence Concepts**  
   Liyuan Lin, Ruodu Wang, Ruixun Zhang, and Chaoyi Zhao.  
-  *SIAM Journal on Financial Mathematics*, 2025, forthcoming. [[arXiv](https://arxiv.org/abs/2404.15023)]
+  *SIAM Journal on Financial Mathematics*, 16(2), 426-447, 2025. [[PDF](/publication/2025_SIAM_Checkerboard.pdf)] [[Journal](https://epubs.siam.org/doi/10.1137/24M1656645)]
 
 - **Construct Smith-Wilson Risk-Free Interest Rate Curves with Endogenous and Positive Ultimate Forward Rates**  
   Chaoyi Zhao, Zijian Jia, and Lan Wu.  
-  *Insurance: Mathematics and Economics*, 114: 156--175, 2024. [[PDF](/publication/2024_IME_SW.pdf)] [[Journal](https://doi.org/10.1016/j.insmatheco.2023.11.003)] 
+  *Insurance: Mathematics and Economics*, 114, 156-175, 2024. [[PDF](/publication/2024_IME_SW.pdf)] [[Journal](https://doi.org/10.1016/j.insmatheco.2023.11.003)] 
 
 
 ## 📊 Application of Statistical Methods in Finance and Beyond
