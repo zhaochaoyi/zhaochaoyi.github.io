@@ -9,6 +9,8 @@ redirect_from:
 
 # 🔥 News
 
+- **2025.05: Our work has been reported by [Center for Statistical Science](https://mp.weixin.qq.com/s/1xAbK-xLOPiseJ3hmmez3Q), Peking University.**
+
 - **2025.03: 🎉 Our paper "On Consistency of Signature Using Lasso" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
   + This paper is currently published online: [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)].
   + We study the statistical consistency of signature using Lasso regression, both theoretically and numerically. We demonstrate that signature can be applied to learn nonlinear functions and option prices with high accuracy, and the performance depends on properties of the underlying process and the choice of the signature.
