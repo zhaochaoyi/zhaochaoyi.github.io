@@ -14,7 +14,24 @@ redirect_from:
 <img src='/images/Acadia.jpg' alt="sym" width="60%">
 </center>
 
+## 🚣 Rowing
+
+<center>
+<img src='/images/rowingteam.jpg' alt="sym" width="60%">
+</center>
+
+I am a member of the [Dragon Boat Team of Peking University Alumni Association of New England](https://www.pkuaa-ne.com/dragonboat). 
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2025.06</div><img src='/images/yaran.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+Our Yaran boat in the 500m race of the 2025 Boston Hong Kong Dragon Boat Festival in June 2025. 
+</div>
+</div>
+
+
 ## 🏊‍♂️ Swimming
+
+I am a recreational swimmer. 
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2024.01</div><img src='/images/swim_record.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
