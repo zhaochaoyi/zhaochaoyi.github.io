@@ -10,6 +10,8 @@ redirect_from:
 
 # 🧩 Misc
 
+I love swimming, rowing, hiking, and stand-up comedy. 
+
 <center>
 <img src='/images/Acadia.jpg' alt="sym" width="60%">
 </center>
@@ -20,7 +22,7 @@ redirect_from:
 <img src='/images/rowingteam.jpg' alt="sym" width="60%">
 </center>
 
-I am a member of the [Dragon Boat Team of Peking University Alumni Association of New England](https://www.pkuaa-ne.com/dragonboat). 
+I am a paddler in the [Dragon Boat Team of Peking University Alumni Association of New England](https://www.pkuaa-ne.com/dragonboat). 
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2025.06</div><img src='/images/yaran.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
