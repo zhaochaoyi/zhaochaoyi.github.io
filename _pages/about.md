@@ -18,7 +18,7 @@ My key research topics are:
 - **Investments**
   + Factor investing
   + High-frequency investing/trading
-  + Sustainable investing
+  + Healthcare investing
 - **Statistics**
   + High-dimensional statistics
   + Machine learning & deep learning
