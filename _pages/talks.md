@@ -45,9 +45,7 @@ redirect_from:
 
 # 💬 Discussions
 
-- I am a discussant of:
-  + 2025 MRS International Risk Conference, July 26, 2025.
-  + Representative of seniors. 
+- 2025 MRS International Risk Conference, July 26, 2025.
 
 
 # 💬 Non-academic Talks
