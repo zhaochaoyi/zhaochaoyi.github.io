@@ -7,8 +7,9 @@ redirect_from:
   - /talks.html
 ---
 
-# 💬 Talks
+# 💬 Academic Talks
 - **On Consistency of Signature Using Lasso**
+  + *SIAM Conference on Financial Mathematics and Engineering (FM25)*, July 15, 2025.
   + *2024 INFORMS Annual Meeting*, Oct 22, 2024.
      * Session chair of the *Machine Learning in Finance II* Session. 
   + *CSIAM 2023*, Oct 15, 2023.
@@ -41,6 +42,15 @@ redirect_from:
 
 - **Statistical Patterns of High-Frequency Data for A-share stocks in Shenzhen Stock Exchange (深交所A股市场高频数据统计特征实证研究)**
   + 第三届金融工程与风险管理青年学者研讨会, Shandong University of Finance and Economics, June 12, 2021. 
+
+# 💬 Discussions
+
+- I am a discussant of:
+  + 2025 MRS International Risk Conference, July 26, 2025.
+  + Representative of seniors. 
+
+
+# 💬 Non-academic Talks
 
 - **[Speech for the Opening Ceremony of School of Mathematical Sciences, 2018 (在数学科学学院2018年开学典礼上的发言)](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm)**
   + Opening Ceremony, School of Mathematical Sciences, Peking University, September 15, 2018. 
