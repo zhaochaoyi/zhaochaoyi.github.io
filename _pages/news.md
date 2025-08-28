@@ -10,7 +10,7 @@ redirect_from:
 # 🔥 News
 
 - **2025.08: 🎉 Our paper "The Evolution of Discrimination Under Finite Memory Constraints" is accepted by** ***<font color="#AC2C1D">Scientific Reports</font>*****!**
-  + This paper can be found here: [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135176)]. 
+  + This paper is currently published online: [[PDF](/publication/2025_SR_Discrimination.pdf)] [[Appendix](/publication/2025_SR_Discrimination_Appendix.pdf)] [[Journal](https://www.nature.com/articles/s41598-025-17089-9)].
   + We develop an evolutionary model for individual discriminatory behavior that emerges naturally in a mixed population as an adaptive strategy. Our findings show that, when individuals have finite memory and face uncertain environments, they may rely on prior biases and observable group traits to make decisions, leading to discriminatory practices. We also demonstrate that a finite memory is a consequence of natural selection because it leads to higher fitness in dynamic environments with mutations. 
 
 - **2025.05: Our paper "On Consistency of Signature Using Lasso" has been reported by [Center for Statistical Science](https://mp.weixin.qq.com/s/1xAbK-xLOPiseJ3hmmez3Q), Peking University.**
