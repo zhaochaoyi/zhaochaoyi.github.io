@@ -73,7 +73,7 @@ redirect_from:
 
 - **The Evolution of Discrimination: How Finite Memory Shape Population Behavior?**  
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
-  *Scientific Reports*, forthcoming, 2025. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135176)]
+  *Scientific Reports*, 15, 31774, 2025. [[PDF](/publication/2025_SR_Discrimination.pdf)] [[Appendix](/publication/2025_SR_Discrimination_Appendix.pdf)] [[Journal](https://www.nature.com/articles/s41598-025-17089-9)]
 
 ## 📚 Books
 
