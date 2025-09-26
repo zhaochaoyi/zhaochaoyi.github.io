@@ -9,6 +9,9 @@ redirect_from:
 
 # 🔥 News
 
+- **2025.09: Our paper "Optimal Multi-Period Dynamic Portfolios for Sustainable Investing" is now on [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5531464)].** Comments and suggestions are welcome.
+  + We develop a stochastic control framework for constructing optimal multi-period dynamic ESG portfolios, in which investors form dynamic portfolios by maximizing utility functions that account for both profitability and the average ESG scores of their portfolios in the near and distant future. We provide an explicit solution to the investors' utility maximization problem, and show that the optimal weight is a linear combination of three components: a financial performance component, an ESG component, and a component reflecting the weight from the previous period. Using the U.S. stock market data, we find that the multi-period dynamic ESG portfolio outperforms single-period portfolios in terms of Sharpe ratios, alphas, and ESG scores.
+
 - **2025.08: 🎉 Our paper "The Evolution of Discrimination Under Finite Memory Constraints" is accepted by** ***<font color="#AC2C1D">Scientific Reports</font>*****!**
   + This paper is currently published online: [[PDF](/publication/2025_SR_Discrimination.pdf)] [[Appendix](/publication/2025_SR_Discrimination_Appendix.pdf)] [[Journal](https://www.nature.com/articles/s41598-025-17089-9)].
   + We develop an evolutionary model for individual discriminatory behavior that emerges naturally in a mixed population as an adaptive strategy. Our findings show that, when individuals have finite memory and face uncertain environments, they may rely on prior biases and observable group traits to make decisions, leading to discriminatory practices. We also demonstrate that a finite memory is a consequence of natural selection because it leads to higher fitness in dynamic environments with mutations. 
