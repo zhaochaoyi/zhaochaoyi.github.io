@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 # 💬 Academic Talks
+
+- **No Asset Is an Island: A Real Options Framework for Valuing Interdependent Projects**
+  + *Peking University Seminar*, Sep 18, 2025.
+ 
+    
 - **On Consistency of Signature Using Lasso**
   + *SIAM Conference on Financial Mathematics and Engineering (FM25)*, July 15, 2025.
   + *2024 INFORMS Annual Meeting*, Oct 22, 2024.
@@ -17,7 +22,7 @@ redirect_from:
 
 - **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**
   + *7th PKU-NUS Annual International Conference on Quantitative Finance and Economics*, May 20, 2023. 
-  + *PKU Seminar*, April 21, 2023. 
+  + *Peking University Seminar*, April 21, 2023. 
   + *CSIAM Financial Math Annual Conference*, November 13, 2022. 
   
 
