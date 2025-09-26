@@ -42,11 +42,11 @@ redirect_from:
   + Reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm) and [School of Mathematical Sciences](https://www.math.pku.edu.cn/xyxw/145612.htm), Peking University.
 
 - **No Asset Is an Island: A Real Options Framework for Valuing Interdependent Projects**  
-  Shomesh E. Chaudhuri, Andrew W. Lo, and Chaoyi Zhao.
+  Shomesh E. Chaudhuri, Andrew W. Lo, and Chaoyi Zhao.  
   Under review.
   
 - **The Health of Nations Fund: Financing Global Drug Development**  
-  Joonhyuk Cho, Manish Singh, Chaoyi Zhao, Shomesh E. Chaudhuri, and Andrew W. Lo.
+  Joonhyuk Cho, Manish Singh, Chaoyi Zhao, Shomesh E. Chaudhuri, and Andrew W. Lo.  
   Under review. 
 
 - **Optimal Multi-Period Dynamic Portfolios for Sustainable Investing**  
