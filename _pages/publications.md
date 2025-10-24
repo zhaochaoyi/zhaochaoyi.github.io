@@ -47,7 +47,7 @@ redirect_from:
 
 - **On Consistency of Signature Using Lasso**  
   Xin Guo, Binnan Wang, Ruixun Zhang, and Chaoyi Zhao.  
-  *Operations Research*, 2025, forthcoming. [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)]
+  *Operations Research*, 73(5), 2530-2549, 2025. [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)]
   + Reported by [Center for Statistical Science](https://mp.weixin.qq.com/s/1xAbK-xLOPiseJ3hmmez3Q), Peking University.
 
 
