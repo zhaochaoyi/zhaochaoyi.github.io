@@ -10,19 +10,30 @@ redirect_from:
 
 # 🧩 Misc
 
-I love swimming, rowing, hiking, and stand-up comedy. 
+I love swimming, hiking, and stand-up comedy. I am also learning rowing, sailing, and bouldering.
+
 
 <center>
 <img src='/images/Acadia.jpg' alt="sym" width="60%">
 </center>
 
+## 🧗 Bouldering
+
+I recently started learning bouldering. It is similar to solving mathematical optimization problems—analyzing constraints, exploring possible paths, and searching for an efficient solution...
+
+<center>
+<img src='/images/bouldering.jpg' alt="sym" width="60%">
+</center>
+
+
 ## 🚣 Rowing
+
+I am a paddler in the [Dragon Boat Team of Peking University Alumni Association of New England](https://www.pkuaa-ne.com/dragonboat). 
 
 <center>
 <img src='/images/rowingteam.jpg' alt="sym" width="60%">
 </center>
 
-I am a paddler in the [Dragon Boat Team of Peking University Alumni Association of New England](https://www.pkuaa-ne.com/dragonboat). 
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">2025.06</div><img src='/images/yaran.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
