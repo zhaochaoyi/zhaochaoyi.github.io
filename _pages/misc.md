@@ -19,7 +19,7 @@ I love swimming, hiking, and stand-up comedy. I am also learning rowing, sailing
 
 ## 🧗 Bouldering
 
-I recently started learning bouldering. It is similar to solving mathematical optimization problems—analyzing constraints, exploring possible paths, and searching for an efficient solution...
+I recently started bouldering. It is similar to solving mathematical optimization problems—analyzing constraints, exploring possible paths, and searching for an efficient solution...
 
 <center>
 <img src='/images/bouldering.jpg' alt="sym" width="60%">
