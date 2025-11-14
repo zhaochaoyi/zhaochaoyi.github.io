@@ -11,7 +11,7 @@ redirect_from:
 
 ## Teaching Assistant at MIT
 
--**Spring 2026: Machine Learning and Financial Technology**
+- **Spring 2026: Machine Learning and Financial Technology**  
   Instructor: Prof. Andrew W. Lo and Prof. Paul F. Mende
 
 - **Fall 2024: Healthcare Finance**  
