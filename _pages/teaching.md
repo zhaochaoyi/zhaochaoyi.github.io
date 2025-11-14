@@ -11,8 +11,11 @@ redirect_from:
 
 ## Teaching Assistant at MIT
 
+-**Spring 2026: Machine Learning and Financial Technology**
+  Instructor: Prof. Andrew W. Lo and Prof. Paul F. Mende
+
 - **Fall 2024: Healthcare Finance**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Andrew W. Lo
+  Instructor: Prof. Andrew W. Lo
 
 ## Teaching Assistant at Peking University
 
