@@ -12,7 +12,7 @@ redirect_from:
 ## Teaching Assistant at MIT
 
 - **Spring 2026: Machine Learning and Financial Technology**  
-  Instructor: Prof. Andrew W. Lo and Prof. Paul F. Mende
+  Instructors: Prof. Andrew W. Lo and Prof. Paul F. Mende
 
 - **Fall 2024: Healthcare Finance**  
   Instructor: Prof. Andrew W. Lo
@@ -23,16 +23,16 @@ redirect_from:
   Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚)
 
 - **Fall 2022: Practice for Fixed Income Securities (固定收益证券实务)**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructors: Prof. Lan Wu (吴岚) *et al.*  
 
 - **Spring 2022: Theory and Practice for Futures and Other Derivatives (期货衍生品理论与实务)**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.*  
+  Elective for Graduate Students and Senior Undergraduate Students. Instructors: Prof. Lan Wu (吴岚) *et al.*  
   
 - **Fall 2021: Exercise Class for Mathematical Analysis III (数学分析III习题课)**  
   Core Class for Undergraduate Students. Instructor: Prof. Jiazhong Yang (杨家忠)  
   
 - **Fall 2021: Practice for Fixed Income Securities (固定收益证券实务)**  
-  Elective for Graduate Students and Senior Undergraduate Students. Instructor: Prof. Lan Wu (吴岚) *et al.* 
+  Elective for Graduate Students and Senior Undergraduate Students. Instructors: Prof. Lan Wu (吴岚) *et al.* 
   
 - **Spring 2021: Exercise Class for Mathematical Analysis II (数学分析II习题课)**  
   Core Class for Undergraduate Students. Instructor: Prof. Jiazhong Yang (杨家忠)  
