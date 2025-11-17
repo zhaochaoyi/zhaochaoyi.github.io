@@ -16,11 +16,11 @@ My research interests include portfolio theory and investing, statistics and art
 
 My key research topics are:
 - **Investments**
-  + Portfolio theory
+  + Portfolio Theory
   + Factor Investing
-  + Market microstructure
+  + Market Microstructure
 - **Statistics**
-  + High-dimensional Statistics
+  + High-Dimensional Statistics
   + Machine Learning
   + Artificial Intelligence
 - **Actuarial Sciences**
