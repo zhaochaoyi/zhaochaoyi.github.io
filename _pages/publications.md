@@ -69,21 +69,21 @@ redirect_from:
 
 - **Quantitative Investing (量化投资)**, in Chinese  
   Jian Sun, Lan Wu, and Chaoyi Zhao.  
-  Science Press (科学出版社), 2023. [[Link](https://www.ecsponline.com/goods.php?id=221941)]
+  *Science Press* (科学出版社), 2023. [[Link](https://www.ecsponline.com/goods.php?id=221941)]
 
 - **Financial Market Risk Management Analytics (金融市场风险管理分析)**, in Chinese  
   Frank Hugh Koger. Translated by Chaoyi Zhao.  
-  Truth & Wisdom Press (格致出版社), 2022. [[Link](https://product.dangdang.com/29435368.html)]
+  *Truth & Wisdom Press* (格致出版社), 2022. [[Link](https://product.dangdang.com/29435368.html)]
 
 - **The Maths Book (数学百科)**, in Chinese  
   Dorling Kindersley Ltd. Translated by Chaoyi Zhao.  
-  Publishing House of Electronics Industry (电子工业出版社), 2021. [[Link](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565)]
+  *Publishing House of Electronics Industry* (电子工业出版社), 2021. [[Link](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565)]
 
 ## 🎓 Doctoral Dissertation
 
 - **Stochastic Models and Statistical Analysis for High-dimensional Multi-factor Models and Induced Order Statistics (高维多因子模型与伴随次序统计量的随机模型与统计分析)**, in Chinese  
   Chaoyi Zhao.  
-  Doctoral Dissertation in Statistics, Peking University, 2024.
+  *Doctoral Dissertation in Statistics*, Peking University, 2024.
 
 
 # 👩🏽‍💻 Preprints
