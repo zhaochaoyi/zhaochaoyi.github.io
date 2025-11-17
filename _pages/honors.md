@@ -11,7 +11,8 @@ redirect_from:
 
 ## Awards
 - **2024**: [Outstanding Doctoral Dissertation Award of Peking University](https://grs.pku.edu.cn/xwgz11/xwsy11/yblw111/381890.htm)
-- **2024, 2019**: [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html), Peking University Excellent Graduate
+- **2024, 2019**: [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html)
+- **2024, 2019**: Excellent Graduate (Peking University)
 - **2023, 2022, 2021, 2020, 2016**: Merit Student (Peking University)
 - **2022**: [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward)
 - **2022**: [Second place in the Best Paper Prize for Young Scholars, Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) 
