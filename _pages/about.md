@@ -15,16 +15,17 @@ Hi! I am a Postdoctoral Associate at [MIT Sloan School of Management](https://mi
 My research interests include portfolio theory and investing, statistics and artificial intelligence, and actuarial sciences. My research has been recognized by the [S&P Global Academic ESG Research Award (2022)](https://www.pm-research.com/SPGlobal-ESGAward) and the [Best Paper Prize for Young Scholars in the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch, 2023)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm). 
 
 My key research topics are:
-- **Portfolio Theory and Investing**
-  + Healthcare Investing
+- **Investments**
+  + Portfolio theory
   + Factor Investing
-  + High-frequency Investing/Trading
-- **Statistics and AI**
+  + Market microstructure
+- **Statistics**
   + High-dimensional Statistics
   + Machine Learning
-  + Artificial Intelligence and Large Language Models
+  + Artificial Intelligence
 - **Actuarial Sciences**
   + Copula Theory
+  + Term Structure Modeling
 
 Here is my latest [CV](/CV/CYZhao_CV.pdf). 
 
