@@ -79,6 +79,11 @@ redirect_from:
   Dorling Kindersley Ltd. Translated by Chaoyi Zhao.  
   Publishing House of Electronics Industry (电子工业出版社), 2021. [[Link](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=59565)]
 
+## 🎓 Doctoral Dissertation
+
+- **Stochastic Models and Statistical Analysis for High-dimensional Multi-factor Models and Induced Order Statistics**, in Chinese  
+  Chaoyi Zhao.  
+  Doctoral Dissertation in Statistics, Peking University, 2024.
 
 
 # 👩🏽‍💻 Preprints
