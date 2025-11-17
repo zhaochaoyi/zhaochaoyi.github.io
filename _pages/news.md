@@ -13,21 +13,21 @@ redirect_from:
   + We develop a stochastic control framework for constructing optimal multi-period dynamic ESG portfolios, in which investors form dynamic portfolios by maximizing utility functions that account for both profitability and the average ESG scores of their portfolios in the near and distant future. We provide an explicit solution to the investors' utility maximization problem, and show that the optimal weight is a linear combination of three components: a financial performance component, an ESG component, and a component reflecting the weight from the previous period. Using the U.S. stock market data, we find that the multi-period dynamic ESG portfolio outperforms single-period portfolios in terms of returns, Sharpe ratios, alphas, and information ratios.
 
 - **2025.08: 🎉 Our paper "The Evolution of Discrimination Under Finite Memory Constraints" is accepted by** ***<font color="#AC2C1D">Scientific Reports</font>*****!**
-  + This paper is currently published online: [[PDF](/publication/2025_SR_Discrimination.pdf)] [[Appendix](/publication/2025_SR_Discrimination_Appendix.pdf)] [[Journal](https://www.nature.com/articles/s41598-025-17089-9)].
+  + This paper is now published online: [[PDF](/publication/2025_SR_Discrimination.pdf)] [[Appendix](/publication/2025_SR_Discrimination_Appendix.pdf)] [[Journal](https://www.nature.com/articles/s41598-025-17089-9)].
   + We develop an evolutionary model for individual discriminatory behavior that emerges naturally in a mixed population as an adaptive strategy. Our findings show that, when individuals have finite memory and face uncertain environments, they may rely on prior biases and observable group traits to make decisions, leading to discriminatory practices. We also demonstrate that a finite memory is a consequence of natural selection because it leads to higher fitness in dynamic environments with mutations. 
 
 - **2025.05: Our paper "On Consistency of Signature Using Lasso" has been reported by [Center for Statistical Science](https://mp.weixin.qq.com/s/1xAbK-xLOPiseJ3hmmez3Q), Peking University.**
 
 - **2025.03: 🎉 Our paper "On Consistency of Signature Using Lasso" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
-  + This paper is currently published online: [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)].
-  + We study the statistical consistency of signature using Lasso regression, both theoretically and numerically. We demonstrate that signature can be applied to learn nonlinear functions and option prices with high accuracy, and the performance depends on properties of the underlying process and the choice of the signature.
+  + This paper is now published online: [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)].
+  + We study the statistical consistency of signature using Lasso regression, both theoretically and numerically. We demonstrate that the signature can be applied to learn nonlinear functions and option prices with high accuracy, and the performance depends on properties of the underlying process and the choice of the signature.
 
 - **2025.01: 🎉 Our paper "The Checkerboard Copula and Dependence Concepts" is accepted by** ***<font color="#AC2C1D">SIAM Journal on Financial Mathematics</font>*****!**
-  + This paper is currently published online: [[PDF](/publication/2025_SIAM_Checkerboard.pdf)] [[Journal](https://epubs.siam.org/doi/10.1137/24M1656645)].
+  + This paper is now published online: [[PDF](/publication/2025_SIAM_Checkerboard.pdf)] [[Journal](https://epubs.siam.org/doi/10.1137/24M1656645)].
   + We study the problem of choosing the copula when the marginal distributions of a random vector are not all continuous. We show that the checkerboard copula (the unique copula with a distribution that is as uniform as possible within regions of flexibility) has the largest Shannon entropy, which means that it carries the least information among all possible copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence information of the original random vector, leading to two applications in the context of diversification penalty and impact portfolios.
 
 - **2025.01: 🎉 Our paper "High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants" is accepted by** ***<font color="#AC2C1D">Pacific-Basin Finance Journal</font>*****!**
-  + This paper is currently published online: [[PDF](/publication/2025_PBFJ_Liquidity.pdf)] [[Appendix](/publication/2025_PBFJ_Liquidity_Appendix.pdf)] [[Journal](https://www.sciencedirect.com/science/article/pii/S0927538X25000186)].
+  + This paper is now published online: [[PDF](/publication/2025_PBFJ_Liquidity.pdf)] [[Appendix](/publication/2025_PBFJ_Liquidity_Appendix.pdf)] [[Journal](https://www.sciencedirect.com/science/article/pii/S0927538X25000186)].
   + We study a range of high-frequency liquidity measures in the Chinese stock market using limit order book data. 
 
 - **2024.09: 🎆 I am enrolled as a** [***<font color="#AC2C1D">Fellow of the Society of Actuaries (FSA)</font>***](https://www.actuarialdirectory.org/?searchType=11&discloseId=FJs51nnroDJm7QM1u25ojw%3D%3D)**!**
@@ -38,12 +38,12 @@ redirect_from:
 - **2024.04: 🎆 I am enrolled as a Postdoctoral Associate at** ***<font color="#AC2C1D">MIT Sloan School of Management</font>*****.**
 - **2024.03: Our paper "Optimal Impact Portfolios with General Dependence and Marginals" has been reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1375261.htm), Peking University.**
 - **2024.02: 🎉 Our paper "Optimal Impact Portfolios with General Dependence and Marginals" is accepted by** ***<font color="#AC2C1D">Operations Research</font>*****!**
-  + This paper is currently published online: [[PDF](/publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)].
+  + This paper is now published online: [[PDF](/publication/2024_OR_Induced_Order_Statistics.pdf)] [[Appendix](/publication/2024_OR_Induced_Order_Statistics_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0400)].
   + We characterize the distribution of induced order statistics for general dependence and general marginals of any bivariate random variables, which is used to construct optimal impact portfolios. 
   + I won second place in the [Best Paper Prize for Young Scholars at the Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)](https://www.stat-center.pku.edu.cn/en/Events/news_en/1365174.htm) in 2023.
     
 - **2024.01: I receive my Ph.D. degree in Statistics from Peking University! I am expected to be a Postdoctoral Associate at MIT Sloan School of Management in this year.**
-  + I successfully early graduate for half a year.
+  + I completed my Ph.D. six months ahead of schedule.
   + It is my honor to be a [Beijing Outstanding Graduate](https://jw.beijing.gov.cn/tzgg/202401/t20240102_3522508.html) in Spring 2024.
     
 - **2023.12: I successfully pass my Ph.D. thesis defense!**
