@@ -7,7 +7,7 @@ redirect_from:
   - /talks.html
 ---
 
-# 💬 Academic Talks
+# 🧑🏻‍🏫 Academic Talks
 
 - **No Asset Is an Island: A Real Options Framework for Valuing Interdependent Projects**
   + *Peking University Seminar*, Sep 18, 2025.
@@ -53,7 +53,7 @@ redirect_from:
 - 2025 MRS International Risk Conference, July 26, 2025.
 
 
-# 💬 Non-academic Talks
+# 🎥 Non-academic Talks
 
 - **[Speech for the Opening Ceremony of School of Mathematical Sciences, 2018 (在数学科学学院2018年开学典礼上的发言)](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm)**
   + Opening Ceremony, School of Mathematical Sciences, Peking University, September 15, 2018. 
