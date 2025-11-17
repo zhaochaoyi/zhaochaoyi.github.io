@@ -23,7 +23,7 @@ redirect_from:
 
 - **Measuring and Optimizing the Risk and Reward of Green Portfolios**  
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
-  *The Journal of Impact and ESG Investing*, 3(2), 55-93, 2022.  [[PDF](/publication/2022_JESG_Carbon.pdf)] [[Journal](https://jesg.pm-research.com/content/early/2022/11/05/jesg.2022.1.062)]  
+  *The Journal of Impact and ESG Investing*, 3(2), 55-93, 2022.  [[PDF](/publication/2022_JESG_Carbon.pdf)] [[Journal](https://www.pm-research.com/content/pmrjesg/3/2/55)]  
   + Winner of the [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward).  
   + Reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm) and [School of Mathematical Sciences](https://www.math.pku.edu.cn/xyxw/145612.htm), Peking University.
 
