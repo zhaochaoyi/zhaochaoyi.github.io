@@ -81,7 +81,7 @@ redirect_from:
 
 ## 🎓 Doctoral Dissertation
 
-- **Stochastic Models and Statistical Analysis for High-dimensional Multi-factor Models and Induced Order Statistics**, in Chinese  
+- **Stochastic Models and Statistical Analysis for High-dimensional Multi-factor Models and Induced Order Statistics (高维多因子模型与伴随次序统计量的随机模型与统计分析)**, in Chinese  
   Chaoyi Zhao.  
   Doctoral Dissertation in Statistics, Peking University, 2024.
 
