@@ -25,6 +25,7 @@ redirect_from:
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
   *The Journal of Impact and ESG Investing*, 3(2), 55-93, 2022.  [[PDF](/publication/2022_JESG_Carbon.pdf)] [[Journal](https://www.pm-research.com/content/pmrjesg/3/2/55)]  
   + Winner of the [S&P Global Academic ESG Research Award](https://www.pm-research.com/SPGlobal-ESGAward).  
+  + Reported by [Practical Applications](https://www.pm-research.com/content/iijpracapp/early/2023/11/13/pa2023pa575) [[PDF](https://zhaochaoyi.github.io/publication/2022_JESG_Carbon_PA.pdf)].
   + Reported by [Center for Statistical Science](https://www.stat-center.pku.edu.cn/xwdt/zxxw/1363706.htm) and [School of Mathematical Sciences](https://www.math.pku.edu.cn/xyxw/145612.htm), Peking University.
 
 - **Order Types and Natural Price Change: Model and Empirical Study of the Chinese Market**  
