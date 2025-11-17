@@ -27,7 +27,7 @@ redirect_from:
   
 
 - **Optimal Impact Portfolios with General Dependence and Marginals**
-  + *ICIAM 2023*, Tokyo, August 20-25, 2023. 
+  + *ICIAM 2023*, August 20-25, 2023. 
   + *The 11th Annual Conference of the Operations Research Society of China (Financial Engineering and Risk Management Branch)*, December 10, 2022. 
   Second place in the Best Paper Prize for Young Scholars. 
   + *Seminar at Sun Yat-sen University*, November 4, 2022. 
