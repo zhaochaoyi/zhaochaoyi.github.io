@@ -23,7 +23,7 @@ A full version of my latest CV can be found [here](/CV/CYZhao_CV.pdf).
 - **Sep 2019 - Jan 2024: Ph.D. in Statistics**, School of Mathematical Sciences, Peking University
   + Advisors: Prof. [Lan Wu](http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_14.htm) and Prof. [Ruixun Zhang](https://ruixunzhang.com)
   + Completed the Ph.D. six months ahead of schedule
-- **Sep 2015 - Jul 2019: B.S. in Mathematics and Applied Mathematics**, School of Mathematical Sciences, Peking University
-  + Sep 2017 - Jul 2019: [Elite Undergraduate Program of Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
-- **Sep 2016 - Jul 2019: B.S. (Double Degree) in Computer Science and Technology**, School of Electronics Engineering and Computer Science, Peking University
+- **Sep 2015 - Jun 2019: B.S. in Mathematics and Applied Mathematics**, School of Mathematical Sciences, Peking University
+  + Sep 2017 - Jun 2019: [Elite Undergraduate Program of Applied Mathematics](https://dics.pku.edu.cn/en/education/theeliteundergraduateprogram/index.htm)
+- **Sep 2016 - Jun 2019: B.S. (Double Degree) in Computer Science and Technology**, School of Electronics Engineering and Computer Science, Peking University
 
