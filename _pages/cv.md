@@ -9,8 +9,6 @@ redirect_from:
 
 # 📜 CV
 
-A full version of my latest CV can be found [here](/CV/CYZhao_CV.pdf). 
-
 ## Affiliation
 - **2024 - Present: Postdoctoral Associate**, Sloan School of Management, Massachusetts Institute of Technology
   + [MIT Laboratory for Financial Engineering](https://lfe.mit.edu)
