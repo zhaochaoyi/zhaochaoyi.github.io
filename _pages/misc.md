@@ -10,7 +10,7 @@ redirect_from:
 
 # 🧩 Misc
 
-I love swimming, hiking, and stand-up comedy. I am also learning rowing, sailing, and bouldering.
+I love swimming, hiking, and stand-up comedy (dad jokes). I am also learning rowing, sailing, and bouldering.
 
 
 <center>
