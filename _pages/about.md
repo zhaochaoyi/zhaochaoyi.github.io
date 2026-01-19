@@ -29,8 +29,6 @@ My key research topics are:
 
 Contact: cy_zhao [at] mit [dot] edu
 
-Here is my latest [CV](/CV/CYZhao_CV.pdf).
-
 I am very happy to work with motivated students. **<font color="#AC2C1D">Don't hesitate to drop me an email if you are interested in cooperating with me!</font>** 😆
 
 <center>
