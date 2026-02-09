@@ -101,7 +101,11 @@ redirect_from:
 - **Optimal Multi-Period Dynamic Portfolios for Sustainable Investing**  
   Danping Li, Ruixun Zhang, and Chaoyi Zhao.  
   Under review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5531464)]
+  
+- **Underperformance of Performance Shares**  
+  Marc Hodak, Andrew W. Lo, Austin Starkweather, and Chaoyi Zhao.  
+  Working paper. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6199258)]
 
 - **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**  
   Chaoyi Zhao and Lan Wu.  
-  Working Paper. 
+  Working paper. 
