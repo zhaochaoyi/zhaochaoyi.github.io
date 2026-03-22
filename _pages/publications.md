@@ -13,7 +13,7 @@ redirect_from:
 
 - **The Health of Nations Fund: Financing Global Drug Development**  
   Joonhyuk Cho, Manish Singh, Chaoyi Zhao, Shomesh E. Chaudhuri, and Andrew W. Lo.  
-  *PLOS Global Public Health*, forthcoming. 
+  *PLOS Global Public Health*, forthcoming, 2026. 
 
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
   Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang.  
