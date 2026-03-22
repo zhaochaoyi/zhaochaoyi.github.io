@@ -11,6 +11,10 @@ redirect_from:
 
 ## 📈 Portfolio Theory and Investing
 
+- **The Health of Nations Fund: Financing Global Drug Development**  
+  Joonhyuk Cho, Manish Singh, Chaoyi Zhao, Shomesh E. Chaudhuri, and Andrew W. Lo.  
+  *PLOS Global Public Health*, forthcoming. 
+
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
   Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang.  
   *Pacific-Basin Finance Journal*, 90, 102681, 2025. [[PDF](/publication/2025_PBFJ_Liquidity.pdf)] [[Appendix](/publication/2025_PBFJ_Liquidity_Appendix.pdf)] [[Journal](https://www.sciencedirect.com/science/article/pii/S0927538X25000186)]
@@ -93,10 +97,6 @@ redirect_from:
 - **No Asset Is an Island: A Real Options Framework for Valuing Interdependent Projects**  
   Shomesh E. Chaudhuri, Andrew W. Lo, and Chaoyi Zhao.  
   Under review.
-  
-- **The Health of Nations Fund: Financing Global Drug Development**  
-  Joonhyuk Cho, Manish Singh, Chaoyi Zhao, Shomesh E. Chaudhuri, and Andrew W. Lo.  
-  Under review. 
 
 - **Optimal Multi-Period Dynamic Portfolios for Sustainable Investing**  
   Danping Li, Ruixun Zhang, and Chaoyi Zhao.  
