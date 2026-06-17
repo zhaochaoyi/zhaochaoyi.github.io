@@ -10,6 +10,7 @@ redirect_from:
 # 🔥 News
 
 - **2026.03: 🎉 Our paper "The Health of Nations Fund: Financing Global Drug Development" is accepted by** ***<font color="#AC2C1D">PLOS Global Public Health</font>*****!**
+  + The paper is now published online: [[PDF](/publication/2026_PGPH_Megafund.pdf)] [[Appendix](/publication/2026_PGPH_Megafund_Appendix.pdf)] [[Journal](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0005248)].
   + We explore the design and performance of a "Health of Nations Fund," a proposed securitization of a biomedical "megafund" that pools capital to invest in a diversified set of global drug development projects. Incorporating assets from four stages of the drug development process as well as royalties from approved therapeutics across eight therapeutic areas, our Monte Carlo simulations show that such a megafund can deliver an annual expected return of 12.0% with a Sharpe ratio of 1.37, indicating a favorable balance between risk and return. At the same time, it finances an average of 25 approved drugs that potentially benefit approximately 44 million patients worldwide over 15 years. To enhance the fund's financial and therapeutic value, we integrate an optimization framework into our design that accounts for global disease prevalence and severity, allowing investors to adjust the allocation of capital according to their preferences for financial performance and healthcare impact. Sensitivity analyses indicate that this megafund typically generates double-digit annual returns across most scenarios.
 
 
