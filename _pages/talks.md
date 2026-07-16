@@ -9,15 +9,20 @@ redirect_from:
 
 # 🧑🏻‍🏫 Academic Talks
 
+- **Valuation and Portfolio Theory for Biomedical Investments**
+  + *2026 INFORMS Annual Meeting*, November 1–4, 2026.
+  + *2026 INFORMS Healthcare Conference*, July 29, 2026.
+
+ 
 - **No Asset Is an Island: A Real Options Framework for Valuing Interdependent Projects**
-  + *Peking University Seminar*, Sep 18, 2025.
+  + *Peking University Seminar*, September 18, 2025.
  
     
 - **On Consistency of Signature Using Lasso**
   + *SIAM Conference on Financial Mathematics and Engineering (FM25)*, July 15, 2025.
-  + *2024 INFORMS Annual Meeting*, Oct 22, 2024.
+  + *2024 INFORMS Annual Meeting*, October 22, 2024.
      * Session chair of the *Machine Learning in Finance II* Session. 
-  + *CSIAM 2023*, Oct 15, 2023.
+  + *CSIAM 2023*, October 15, 2023.
   + *UC Berkeley Seminar*, May 7, 2023. 
 
 - **Breaking the Factor Zootopia: Factor Selection via Significant Tests of Multi-Task Lasso**
@@ -55,6 +60,11 @@ redirect_from:
 
 # 🎥 Non-academic Talks
 
+- **[Workshop: Creating a Personal Financial Planning Web App](https://zhaochaoyi.github.io/personal-financial-planning/)**
+  + [MIT AI Educators Pilot](https://computing.mit.edu/ai-educators-pilot/), July 16, 2026. 
+  + [MIT Executive Education Program](https://executive.mit.edu/course/artificial-intelligence-for-financial-services/a05U100000BIm1RIAT.html), July 24, 2026. 
+ 
+    
 - **[Speech for the Opening Ceremony of School of Mathematical Sciences, 2018 (在数学科学学院2018年开学典礼上的发言)](https://www.math.pku.edu.cn/xsyd/yyjh/2018/114184.htm)**
   + Opening Ceremony, School of Mathematical Sciences, Peking University, September 15, 2018. 
   + Representative of seniors. 
