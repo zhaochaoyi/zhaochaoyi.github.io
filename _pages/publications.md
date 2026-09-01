@@ -51,7 +51,7 @@ redirect_from:
   
 - **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
   Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin.  
-  *The European Journal of Finance*, 2023, forthcoming. [[PDF](/publication/2023_EJF_ImageML.pdf)] [[Journal](https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567)]
+  *The European Journal of Finance*, 32(13), 1598–1626, 2026. [[PDF](/publication/2023_EJF_ImageML.pdf)] [[Journal](https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567)]
 
 - **The Success of AdaBoost and its Application in Portfolio Management**  
   Yijian Chuan, Chaoyi Zhao, Zhenrui He, and Lan Wu.  
