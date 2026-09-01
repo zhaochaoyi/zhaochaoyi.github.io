@@ -39,6 +39,16 @@ redirect_from:
 
 ## 💻 High-dimensional Statistics, Machine Learning, and Artificial Intelligence
 
+- **Estimating and Predicting Clinical Trial Outcomes in China**  
+  Chaoyi Zhao, Timothy Pang, and Andrew W. Lo.  
+  *Drug Discovery Today*, forthcoming, 2026. 
+
+
+- **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
+  Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin.  
+  *The European Journal of Finance*, 32(13), 1598–1626, 2026. [[PDF](/publication/2026_EJF_ImageML.pdf)] [[Journal](https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567)]
+
+  
 - **On Consistency of Signature Using Lasso**  
   Xin Guo, Binnan Wang, Ruixun Zhang, and Chaoyi Zhao.  
   *Operations Research*, 73(5), 2530-2549, 2025. [[PDF](/publication/2025_OR_Signature.pdf)] [[Appendix](/publication/2025_OR_Signature_Appendix.pdf)] [[Journal](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1133)]
@@ -49,9 +59,6 @@ redirect_from:
   Andrew W. Lo, Ruixun Zhang, and Chaoyi Zhao.  
   *Scientific Reports*, 15, 31774, 2025. [[PDF](/publication/2025_SR_Discrimination.pdf)] [[Appendix](/publication/2025_SR_Discrimination_Appendix.pdf)] [[Journal](https://www.nature.com/articles/s41598-025-17089-9)]
   
-- **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
-  Ruixun Zhang, Chaoyi Zhao, and Guanglian Lin.  
-  *The European Journal of Finance*, 32(13), 1598–1626, 2026. [[PDF](/publication/2023_EJF_ImageML.pdf)] [[Journal](https://www.tandfonline.com/doi/full/10.1080/1351847X.2023.2275567)]
 
 - **The Success of AdaBoost and its Application in Portfolio Management**  
   Yijian Chuan, Chaoyi Zhao, Zhenrui He, and Lan Wu.  
