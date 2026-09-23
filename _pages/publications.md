@@ -41,7 +41,7 @@ redirect_from:
 
 - **Estimating and Predicting Clinical Trial Outcomes in China**  
   Chaoyi Zhao, Timothy Pang, and Andrew W. Lo.  
-  *Drug Discovery Today*, forthcoming, 2026. 
+  *Drug Discovery Today*, 31(6), 104802, 2026. [[PDF](/publication/2026_DDT_ChinaDrug.pdf)] [[Appendix](/publication/2026_DDT_ChinaDrug_Appendix.pdf)] [[Journal](https://doi.org/10.1016/j.drudis.2026.104802)]
 
 
 - **Interpretable Image-Based Deep Learning for Price Trend Prediction in ETF Markets**  
