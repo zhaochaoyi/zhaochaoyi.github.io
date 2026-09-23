@@ -9,7 +9,8 @@ redirect_from:
 
 # 🔥 News
 
-- **2026.08: 🎉 Our paper "Estimating and Predicting Clinical Trial Outcomes in China" is accepted by** ***<font color="#AC2C1D">Drug Discovery Today</font>*****!**
+- **2026.09: 🎉 Our paper "Estimating and Predicting Clinical Trial Outcomes in China" is accepted by** ***<font color="#AC2C1D">Drug Discovery Today</font>*****!**
+  + The paper is now published online: [[PDF](/publication/2026_DDT_ChinaDrug.pdf)] [[Appendix](/publication/2026_DDT_ChinaDrug_Appendix.pdf)] [[Journal](https://doi.org/10.1016/j.drudis.2026.104802)].
   + Around a quarter of drug development now has a Chinese origin, yet China-specific success benchmarks and forecasting tools remain scarce. We analyze all non-generic drug trials registered on China's national drug clinical trial registry from 2013 to 2025, benchmark phase-transition probabilities of success (PoS)—where success denotes a program advancing to the next phase or to approval—and forecast trial outcomes with machine learning using structured registry features and Chinese text. China's overall Phase I-to-Approval PoS is below 30% across most therapeutic areas, while Phase II-to-Phase III transition rates run far above global benchmarks. In out-of-sample evaluations, random forests reach AUCs approaching 80% and logistic regression around 70%, with the sponsor's track record and text-derived signals as key drivers.
 
 
