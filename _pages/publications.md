@@ -101,6 +101,10 @@ redirect_from:
 
 
 
+- **To Diversify or Not to Diversify: When Is a Single Binary Asset Better Than a Portfolio?**  
+  Andrew W. Lo, David Weinstock, and Chaoyi Zhao.  
+  Working paper.
+  
 - **No Asset Is an Island: A Real Options Framework for Valuing Interdependent Projects**  
   Shomesh E. Chaudhuri, Andrew W. Lo, and Chaoyi Zhao.  
   Under review.
