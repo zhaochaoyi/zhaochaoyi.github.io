@@ -101,6 +101,11 @@ redirect_from:
 
 
 
+- **Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI**  
+  Andrew W. Lo and Chaoyi Zhao.  
+  Working paper. [[arXiv](https://arxiv.org/abs/2611.07048)]
+  
+
 - **To Diversify or Not to Diversify: When Is a Single Binary Asset Better Than a Portfolio?**  
   Andrew W. Lo, David Weinstock, and Chaoyi Zhao.  
   Working paper.
