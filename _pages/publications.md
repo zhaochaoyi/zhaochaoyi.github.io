@@ -17,7 +17,7 @@ redirect_from:
 
 - **Optimal Multi-Period Dynamic Portfolios for Sustainable Investing**  
   Danping Li, Ruixun Zhang, and Chaoyi Zhao.  
-  Statistical Theory and Related Fields, forthcoming, 2026. [[PDF](/publication/2026_STARF_Dynamic_Impact.pdf)] [[Journal](https://doi.org/10.1080/24754269.2026.2755107)]
+  *Statistical Theory and Related Fields*, forthcoming, 2026. [[PDF](/publication/2026_STARF_Dynamic_Impact.pdf)] [[Journal](https://doi.org/10.1080/24754269.2026.2755107)]
 
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
   Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang.  
