@@ -15,6 +15,10 @@ redirect_from:
   Joonhyuk Cho, Manish Singh, Chaoyi Zhao, Shomesh E. Chaudhuri, and Andrew W. Lo.  
   *PLOS Global Public Health*, 6(6), e0005248, 2026. [[PDF](/publication/2026_PGPH_Megafund.pdf)] [[Appendix](/publication/2026_PGPH_Megafund_Appendix.pdf)] [[Journal](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0005248)]
 
+- **Optimal Multi-Period Dynamic Portfolios for Sustainable Investing**  
+  Danping Li, Ruixun Zhang, and Chaoyi Zhao.  
+  Statistical Theory and Related Fields, forthcoming, 2026. [[PDF](/publication/2026_STARF_Dynamic_Impact.pdf)] [[Journal](https://doi.org/10.1080/24754269.2026.2755107)]
+
 - **High-Frequency Liquidity in the Chinese Stock Market: Measurements, Patterns, and Determinants**  
   Chaoyi Zhao, Yufan Chen, Lintong Wu, Yuehao Dai, Ermo Chen, Lan Wu, and Ruixun Zhang.  
   *Pacific-Basin Finance Journal*, 90, 102681, 2025. [[PDF](/publication/2025_PBFJ_Liquidity.pdf)] [[Appendix](/publication/2025_PBFJ_Liquidity_Appendix.pdf)] [[Journal](https://www.sciencedirect.com/science/article/pii/S0927538X25000186)]
@@ -114,10 +118,6 @@ redirect_from:
   Shomesh E. Chaudhuri, Andrew W. Lo, and Chaoyi Zhao.  
   Under review.
 
-- **Optimal Multi-Period Dynamic Portfolios for Sustainable Investing**  
-  Danping Li, Ruixun Zhang, and Chaoyi Zhao.  
-  Under review. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5531464)]
-  
 - **Underperformance of Performance Shares**  
   Marc Hodak, Andrew W. Lo, Austin Starkweather, and Chaoyi Zhao.  
   Working paper. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6199258)]
